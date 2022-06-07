@@ -1,7 +1,8 @@
-![[StokersLogoNoBackground 1.png]]
+![image](https://user-images.githubusercontent.com/73878099/172373718-1e27b565-88ea-44ab-bbdc-255b3256cc2f.png)
+>## Het project
 
->## Plan van aanpak
+Dit project is een website voor carnavals vereniging De Stokers.
+De bedoeling van de website is zowel het werven van meer leden,
+als voor leden activiteiten te laten plannen en zich daarvoor aan te kunnen melden.
+Ook kun je op de website foto's zien van de vorige activiteiten en andere stokers gerelateerde dingen zoals onze cover liedjes en promotie video's.
 
-  
-
-Een website voor de stokers waar je kunt zien wat we allemaal gedaan hebben en nog gaan doen.
