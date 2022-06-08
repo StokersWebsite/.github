@@ -6,3 +6,7 @@ De bedoeling van de website is zowel het werven van meer leden,
 als voor leden activiteiten te laten plannen en zich daarvoor aan te kunnen melden.
 Ook kun je op de website foto's zien van de vorige activiteiten en andere stokers gerelateerde dingen zoals onze cover liedjes en promotie video's.
 
+>## Hoe zit het in elkaar?
+>Het project gebruikt een react frontend, en een asp.net API die de activiteiten regelt.
+>De API kan activiteiten toevoegen en ophalen, en hij runt op een docker image.
+>
