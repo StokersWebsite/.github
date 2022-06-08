@@ -8,4 +8,6 @@
 >## Hoe zit het in elkaar?
 >Het project gebruikt een react frontend, en een asp.net API die de activiteiten regelt.
 >De API kan activiteiten toevoegen en ophalen, en hij runt op een docker image.
->
+>Verder kun je de instagram feed van de stokers bekijken op de site in het fotoalbum, ook staan hier de video specials zoals de mooi man cover en de carnaval pers conferentie
+
+  
