@@ -5,8 +5,8 @@ Door: Rens Vlooswijk
 Voor: Cv De Stokers en Fontys Semester 3
 
 ## Inhoud
--[1. Introductie] (#1 Introduction)
-
+-[1. Introductie](#1 Introduction)
+-[2. Leeruitkomsten](#2 Leeruitkomsten)
 
 >## 1. Introductie
 >Dit project is een website voor carnavals vereniging De Stokers.
