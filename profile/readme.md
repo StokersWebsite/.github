@@ -6,6 +6,7 @@ Voor: Cv De Stokers en Fontys Semester 3
 
 ## Inhoud
 -[1. Introductie](#1 Introduction)
+
 -[2. Leeruitkomsten](#2 Leeruitkomsten)
 
 >## 1. Introductie
