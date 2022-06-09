@@ -8,7 +8,7 @@ Voor: Cv De Stokers en Fontys Semester 3
 -[1. Introductie] (#1 Introduction)
 
 
->## Het Project
+>## 1. Introductie
 >Dit project is een website voor carnavals vereniging De Stokers.
 >De bedoeling van de website is zowel het werven van meer leden,
 >als voor leden activiteiten te laten plannen en zich daarvoor aan te kunnen melden.
