@@ -6,21 +6,18 @@ Voor: Cv De Stokers en Fontys Semester 3
 
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Project setup](#project setup)
+2. [Project setup](#project-setup)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Example
->Dit project is een website voor carnavals vereniging De Stokers.
->De bedoeling van de website is zowel het werven van meer leden,
->als voor leden activiteiten te laten plannen en zich daarvoor aan te kunnen melden.
->Ook kun je op de website foto's zien van de vorige activiteiten en andere stokers gerelateerde dingen zoals onze cover liedjes en promotie video's.
+## Introduction
+>This project is a website for the carnaval's organisation "De Stokers".
+>It is meant to attract more members to the organisation and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
 
 ## Project Setup
->Het project gebruikt een react frontend, en een asp.net API die de activiteiten regelt.
->De API kan activiteiten toevoegen en ophalen, en hij runt op een docker image.
->Verder kun je de instagram feed van de stokers bekijken op de site in het fotoalbum, ook staan hier de video specials zoals de mooi man cover en de carnaval pers conferentie
+>The project uses a react frontend and a asp.net API that manages the activities.
+>Furthermore it uses the instagram and YouTube API to show the stokers instagram feed and its YouTube specials.
 
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
