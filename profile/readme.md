@@ -6,7 +6,7 @@ Voor: Cv De Stokers en Fontys Semester 3
 
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Project setup](#Project Setup)
+2. [Project setup](#project setup)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
