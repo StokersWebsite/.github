@@ -19,5 +19,12 @@ Voor: Cv De Stokers en Fontys Semester 3
 >The project uses a react frontend and a asp.net API that manages the activities.
 >Furthermore it uses the instagram and YouTube API to show the stokers instagram feed and its YouTube specials.
 
+## Full stack
+"You design and build **user-friendly**, **full-stack** web applications."
+![image](https://user-images.githubusercontent.com/73878099/173580473-793f520f-2152-4583-8eb5-1c19c9bfd9b3.png)
+
+
+
+
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
