@@ -32,7 +32,14 @@ For: Cv De Stokers and Fontys Semester 3
 
 # 2. Learning outcomes
 ## 1-FullStack
-- _"You design and build **user-friendly**, **full-stack** web applications."_
+>### - _"You design and build **user-friendly**, **full-stack** web applications."_
+>
+>#### Clarification:
+>_User friendly_: 
+>You apply basic User experience testing and development techniques.
+>
+>_Full-stack_: 
+>You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
 >For my website I designed a frontend that looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/173580473-793f520f-2152-4583-8eb5-1c19c9bfd9b3.png)
@@ -52,7 +59,11 @@ For: Cv De Stokers and Fontys Semester 3
 [Back to table of contents](#table-of-contents)
 
 ## 2-Tooling
-- _You use software **tooling and methodology** that continuously monitors and improve the software quality during software development._
+>### - _You use software **tooling and methodology** that continuously monitors and improve the software quality during software development._
+>
+>#### Clarification:
+>_Tooling and methodology_: 
+>Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code >analysis and code reviews.
 
 >To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code.
 >
@@ -72,7 +83,11 @@ For: Cv De Stokers and Fontys Semester 3
 [Back to table of contents](#table-of-contents)
 
 ## 3-Agile
-- _You **choose** and implement the most suitable agile software development method for your software project._
+>### - _You **choose** and implement the most suitable agile software development method for your software project._
+>
+>#### Clarification:
+>_Choose_: 
+>You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
 >For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. 
 >
@@ -82,7 +97,11 @@ For: Cv De Stokers and Fontys Semester 3
 [Back to table of contents](#table-of-contents)
 
 ## 4-CiCd
-- _You **design and implement** a (semi)automated software release process that matches the needs of the project context._
+>### - _You **design and implement** a (semi)automated software release process that matches the needs of the project context._
+>
+>#### Clarification:
+>_Design and implement_: 
+You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 >I used github actions to create a CI/CD pipeline. So everyime I pushed something to github it would check the code and then deploy it on docker. I felt this was the most educational and do-able, since I was already using github it made the most sense to use this as my CI/CD method since I could check it and deploy it everytime I updated my code, while not changing my codes location.
 ![[image]](https://github.com/StokersWebsite/.github/blob/f237d7180f1d9e2dd15e4b0b298508afa0b6a7ee/Images/DockerRunning.png)
@@ -91,7 +110,14 @@ For: Cv De Stokers and Fontys Semester 3
 [Back to table of contents](#table-of-contents)
 
 ## 5-Cultural diffrences
-- _You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development._
+>### - _You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development._
+>
+>#### Clarification
+>_Recognize_ : 
+>Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+>
+>_Take into account_ : 
+Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
 >### Finland
 >For me the cultural differences were very visable since I worked on the Oulu project with finnish students. I feel like that we as dutch students inherited a lot of the finnish ways of doing things. Like taiga, We had all never heard of it, but since the finnish students had and liked it we decided to use it for this project aswell.
@@ -103,7 +129,11 @@ Our group application is a social media application, As such our users would be 
 [Back to table of contents](#table-of-contents)
 
 ## 6-Requirements
-- _You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**._
+>###- _You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**._
+>
+>#### Clarification:
+>_Multiple types of test techniques_ : 
+You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 >### teachers
 >I had multiple stakeholders including my teachers, cv de stokers members and myself.
