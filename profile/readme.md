@@ -62,8 +62,7 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 ## [[3-Agile]]
 - _You **choose** and implement the most suitable agile software development method for your software project._
 
->For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress.
->
+>For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. 
 ![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
 ![[image]](https://github.com/StokersWebsite/.github/blob/078f45a6748fc5ed25ffdb03fc0781c31c266170/Images/Sprint%204%20completed.png)
 
