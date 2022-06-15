@@ -16,7 +16,7 @@ For: Cv De Stokers and Fontys Semester 3
 - [2.7 Business process](#7-business-process)
 - [2.8 Professional](#8-professional)
 
-### 3. Research
+### [3. Research](#3-research-1)
 - [3.1 Ethics](#ethics)
 - [3.2 Cultural Differences](#cultural-differences)
 - [3.3 Agile methods](#agile-methods)
