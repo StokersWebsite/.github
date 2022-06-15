@@ -61,7 +61,7 @@ For: Cv De Stokers and Fontys Semester 3
  I dont always remove my commented code that I am not going to use. And import things that I then dont use. This way I could easily find those things to clean up my code. 
 >![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20Quality%20gate.png)
 >I also used postman to test if my API was working correctly, here is a demonstration:
->[Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
+>![Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
 >Sonarcloud also mentions some Security hotspots but those are neglectable since I need that to make my API publically available.
 >### Eeventify
 >For the group project we also made integration tests, We felt like this was the most usefull test since then we could see if everybody's code could work together.
