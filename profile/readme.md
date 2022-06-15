@@ -5,16 +5,16 @@ By: Rens Vlooswijk
 For: Cv De Stokers and Fontys Semester 3
 
 # Table of Contents:
-### 1. Introduction
-### 2. Learning outcomes
-- 2.1 FullStack
-- 2.2 Tooling
-- 2.3 Agile
-- 2.4 CI/CD
-- 2.5 Cultural Diffrences
-- 2.6  Requirements
-- 2.7 Business process
-- 2.8 Professional
+### [1. Introduction](#3-research)
+### [2. Learning outcomes](#2-learning-outcomes-1)
+- [2.1 FullStack](#1-fullstack)
+- [2.2 Tooling](#2-tooling)
+- [2.3 Agile](#3-agile)
+- [2.4 CI/CD](#4-cicd)
+- [2.5 Cultural Diffrences](#5-cultural-diffrences)
+- [2.6  Requirements](#6-requirements)
+- [2.7 Business process](#7-business-process)
+- [2.8 Professional](#8-professional)
 
 ### 3. Research
 - 3.1 Ethics
@@ -49,6 +49,8 @@ For: Cv De Stokers and Fontys Semester 3
 >
 >I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
 
+[Back to table of contents](#table-of-contents)
+
 ## 2-Tooling
 - _You use software **tooling and methodology** that continuously monitors and improve the software quality during software development._
 
@@ -65,6 +67,8 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 >And we monitored the status of the application, We did this because the application runs on a group members home server and this way we could check if it was still working.
 >![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_monitor.png)
 
+[Back to table of contents](#table-of-contents)
+
 ## 3-Agile
 - _You **choose** and implement the most suitable agile software development method for your software project._
 
@@ -73,12 +77,16 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 >![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
 >![[image]](https://github.com/StokersWebsite/.github/blob/078f45a6748fc5ed25ffdb03fc0781c31c266170/Images/Sprint%204%20completed.png)
 
+[Back to table of contents](#table-of-contents)
+
 ## 4-CiCd
 - _You **design and implement** a (semi)automated software release process that matches the needs of the project context._
 
 >I used github actions to create a CI/CD pipeline. So everyime I pushed something to github it would check the code and then deploy it on docker. I felt this was the most educational and do-able, since I was already using github it made the most sense to use this as my CI/CD method since I could check it and deploy it everytime I updated my code, while not changing my codes location.
 ![[image]](https://github.com/StokersWebsite/.github/blob/f237d7180f1d9e2dd15e4b0b298508afa0b6a7ee/Images/DockerRunning.png)
 ![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/GithubActions.png)
+
+[Back to table of contents](#table-of-contents)
 
 ## 5-Cultural diffrences
 - _You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development._
@@ -89,6 +97,8 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 >### Ethics
 >For [[Ethics]] we had to think of ways that our application might affect its users.
 Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activity, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
+
+[Back to table of contents](#table-of-contents)
 
 ## 6-Requirements
 - _You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using **multiple types of test techniques**._
@@ -109,8 +119,12 @@ From this I learned that most members would like a activities tab on which they 
 For example if I imported something that I didnt use it would show me in what file I did so.
 This came in very handy to clean up my code.
 
+[Back to table of contents](#table-of-contents)
+
 ## 7-Business process
 - _You analyze and describe **simple** business processes that are **related** to your project._
+
+[Back to table of contents](#table-of-contents)
 
 ## 8-Professional
 - _You act in a **professional manner** during software development and learning._
@@ -118,6 +132,8 @@ This came in very handy to clean up my code.
 >For me this was both the easiest and the hardest to prove. I felt like everything I did this semester like the group project, my feedback usage and my on logical thinking based decisions proved that I acted in a professional manner. Even so I was never really sure if this was the way to show this.
 >
 >![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
+
+[Back to table of contents](#table-of-contents)
 
 # 3. Research
 As of research i did for this semester:
@@ -144,3 +160,5 @@ There are a lot of choises when developing software based on ethical and moral c
 >To see this:
 >
 >[[📄 My Security]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Security.md)
+
+[Back to table of contents](#table-of-contents)
