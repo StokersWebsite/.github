@@ -48,23 +48,25 @@ For: Cv De Stokers and Fontys Semester 3
 - _You use software **tooling and methodology** that continuously monitors and improve the software quality during software development._
 
 >To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code.
-![[Sonarcloud overview.png]]
-![[Sonarcloud outcomes.png]]
+>
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20overview.png)
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20outcomes.png)
  I dont always remove my commented code that I am not going to use. And import things that I then dont use. This way I could easily find those things to clean up my code. 
- ![[Sonarcloud Quality gate.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20Quality%20gate.png)
 Sonarcloud also mentions some Security hotspots but those are neglectable since I need that to make my API publically available.
 >### Eeventify
 >For the group project we also made integration tests:
-![[eeventify_postman_test.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_test.png)
 >And we monitored the status of the application:
-![[eeventify_postman_monitor.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_monitor.png)
 
 ## [[3-Agile]]
 - _You **choose** and implement the most suitable agile software development method for your software project._
 
 >For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. 
-![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
-![[image]](https://github.com/StokersWebsite/.github/blob/078f45a6748fc5ed25ffdb03fc0781c31c266170/Images/Sprint%204%20completed.png)
+>
+>![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
+>![[image]](https://github.com/StokersWebsite/.github/blob/078f45a6748fc5ed25ffdb03fc0781c31c266170/Images/Sprint%204%20completed.png)
 
 ## [[4-CiCd]]
 - _You **design and implement** a (semi)automated software release process that matches the needs of the project context._
@@ -89,15 +91,15 @@ Our group application is a social media application, As such our users would be 
 >### teachers
 I had multiple stakeholders including my teachers, cv de stokers members and myself.
 For the "user acceptance" of the teachers I ofcourse had feedback moments and casual conversations (with leon) about my project and progress. I did this because then I got to know more about what still had to be done. And I got some good tips on how to move forward.
-![[Feedpulse.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
 >### Stokers members
 I also got feedback as user acceptance testing from Stokers members, first of all about the requirements ofcourse. I did this at the start because I wanted to know what all the members wanted in the site. 
 From this I learned that most members would like a activities tab on which they can see what events are comming up, which I then added to the requirements.
-![[Activity requirements.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Activity%20requirements.png)
 >### Sonarcloud
 To check my code quality I used sonarcloud
-![[Sonarcloud Outcomes2.png]]
-![[Sonarcloud findings.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20Outcomes2.png)
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Sonarcloud%20findings.png)
 I used sonarcloud because then I could find everything that was not neat code easily.
 For example if I imported something that I didnt use it would show me in what file I did so.
 This came in very handy to clean up my code.
@@ -109,4 +111,5 @@ This came in very handy to clean up my code.
 - _You act in a **professional manner** during software development and learning._
 
 >For me this was both the easiest and the hardest to prove. I felt like everything I did this semester like the group project, my feedback usage and my on logical thinking based decisions proved that I acted in a professional manner. Even so I was never really sure if this was the way to show this.
-![[Feedpulse.png]]
+>![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
+
