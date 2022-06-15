@@ -7,21 +7,21 @@ For: Cv De Stokers and Fontys Semester 3
 # Table of Contents:
 ### 1. Introduction
 ### 2. Learning outcomes
-2.1 FullStack
-2.2 Tooling
-2.3 Agile
-2.4 CI/CD
-2.5 Cultural Diffrences
-2.6  Requirements
-2.7 Business process
-2.8 Professional
+- 2.1 FullStack
+- 2.2 Tooling
+- 2.3 Agile
+- 2.4 CI/CD
+- 2.5 Cultural Diffrences
+- 2.6  Requirements
+- 2.7 Business process
+- 2.8 Professional
 
 ### 3. Research
-3.1 Ethics
-3.2 Cultural Differences
-3.3 Agile methods
-3.4 How to obsidian
-3.5 Security
+- 3.1 Ethics
+- 3.2 Cultural Differences
+- 3.3 Agile methods
+- 3.4 How to obsidian
+- 3.5 Security
 
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
