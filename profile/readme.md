@@ -34,13 +34,13 @@ For: Cv De Stokers and Fontys Semester 3
 ## 1-FullStack
 - _"You design and build **user-friendly**, **full-stack** web applications."_
 
->## For my website I designed a frontend that looks like this:
+>For my website I designed a frontend that looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/173580473-793f520f-2152-4583-8eb5-1c19c9bfd9b3.png)
->## Furthermore it can show you all the upcomming activities:
+>Furthermore it can show you all the upcomming activities:
 ![image](https://user-images.githubusercontent.com/73878099/173631371-43c77552-1168-410f-9ff5-b87ced6dd071.png)
->## You can also see the stokers specials on the website:
+>You can also see the stokers specials on the website:
 ![image](https://user-images.githubusercontent.com/73878099/173631594-dffdddd3-4290-409a-8ad4-2457a92fdae5.png)
->## Plus you can login using Auth0:
+>Plus you can login using Auth0:
 ![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
 >I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
 
@@ -114,3 +114,28 @@ This came in very handy to clean up my code.
 >
 >![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
 
+# 3. Research
+As of research i did for this semester:
+## Ethics in software 
+>As in most things ethics also apply when creating software. You may think ethics arent a big  deal in software development, but you would be mistaken.
+There are a lot of choises when developing software based on ethical and moral choises. To see my full ethics research:
+>
+>[[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Ethics.md)
+
+## Agile Methods
+>There are more than one correct agile methods that you can use for a group project. We chose for Scum, to learn more about scrum and other agile methods:
+>
+>[[📄Agile]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Agile.md)
+
+## How to obsidian
+>For my personal research this semester I chose "How to obsidian". My teacher recommended that I start using obsidian, and so I did. 
+>I liked it so much that I wanted to do my research about it too. 
+>To check that out:
+>
+>[[📄 How to Obsidian]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Obsidian.md)
+
+## Security
+>This semester I also learned a lot about security, And especially on what to do about security for specific types of project. This is why my security research is (primarily) about what my project needed for security.
+>To see this:
+>
+>[[📄 My Security]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Security.md)
