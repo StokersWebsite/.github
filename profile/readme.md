@@ -36,12 +36,17 @@ For: Cv De Stokers and Fontys Semester 3
 
 >For my website I designed a frontend that looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/173580473-793f520f-2152-4583-8eb5-1c19c9bfd9b3.png)
+>
 >Furthermore it can show you all the upcomming activities:
 ![image](https://user-images.githubusercontent.com/73878099/173631371-43c77552-1168-410f-9ff5-b87ced6dd071.png)
+>
 >You can also see the stokers specials on the website:
 ![image](https://user-images.githubusercontent.com/73878099/173631594-dffdddd3-4290-409a-8ad4-2457a92fdae5.png)
+>
 >Plus you can login using Auth0:
-![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
+>
+>![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
+>
 >I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
 
 ## 2-Tooling
