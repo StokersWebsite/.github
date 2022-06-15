@@ -17,11 +17,11 @@ For: Cv De Stokers and Fontys Semester 3
 - [2.8 Professional](#8-professional)
 
 ### 3. Research
-- 3.1 Ethics
-- 3.2 Cultural Differences
-- 3.3 Agile methods
-- 3.4 How to obsidian
-- 3.5 Security
+- [3.1 Ethics](#ethics)
+- [3.2 Cultural Differences](#cultural-differences)
+- [3.3 Agile methods](#agile-methods)
+- [3.4 How to obsidian](#how-to-obsidian)
+- [3.5 Security](#security)
 
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
