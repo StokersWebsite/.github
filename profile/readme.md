@@ -120,6 +120,9 @@ From this I learned that most members would like a activities tab on which they 
 >I used sonarcloud because then I could find everything that was not neat code easily.
 For example if I imported something that I didnt use it would show me in what file I did so.
 This came in very handy to clean up my code.
+>### Eeventify
+>for the group project we planned everything out way better than for my personal project, for example by making a architecture diagram:
+>![image](https://github.com/StokersWebsite/.github/blob/bfdb67662045b1986345ef1bd5f140006d0e8c87/Images/unknown.png)
 
 [Back to table of contents](#table-of-contents)
 
