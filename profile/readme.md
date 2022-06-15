@@ -63,6 +63,7 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 - _You **choose** and implement the most suitable agile software development method for your software project._
 
 >For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress.
+![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
 ![[Taiga Board 2.png]]
 ![[Sprint 4 completed.png]]
 
@@ -71,8 +72,7 @@ Sonarcloud also mentions some Security hotspots but those are neglectable since 
 
 >I used github actions to create a CI/CD pipeline. So everyime I pushed something to github it would check the code and then deploy it on docker. I felt this was the most educational and do-able, since I was already using github it made the most sense to use this as my CI/CD method since I could check it and deploy it everytime I updated my code, while not changing my codes location.
 >![[image]](https://github.com/StokersWebsite/.github/blob/f237d7180f1d9e2dd15e4b0b298508afa0b6a7ee/Images/DockerRunning.png)
-![[GithubActions.png]]
-![[DockerRunning.png]]
+![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/GithubActions.png)
 
 ## [[5-Cultural diffrences]]
 - _You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development._
