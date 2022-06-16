@@ -23,9 +23,9 @@ For: Cv De Stokers and Fontys Semester 3
 - [3.4 How to obsidian](#how-to-obsidian)
 - [3.5 Security](#security)
 
-### [Reflection](#4-reflection)
-- [What went well?](#what-went-well)
-- [What could have gone better?](#what-could-have-gone-better) 
+### [4. Reflection](#4-reflection-1)
+- [4.1 What went well?](#what-went-well)
+- [4.2 What could have gone better?](#what-could-have-gone-better) 
 
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
