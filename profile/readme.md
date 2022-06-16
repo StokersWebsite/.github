@@ -24,6 +24,8 @@ For: Cv De Stokers and Fontys Semester 3
 - [3.5 Security](#security)
 
 ### [Reflection](#4-reflection)
+- [What went well?](#what-went-well)
+- [What could have gone better?](#what-could-have-gone-better) 
 
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
