@@ -23,7 +23,7 @@ For: Cv De Stokers and Fontys Semester 3
 - [3.4 How to obsidian](#how-to-obsidian)
 - [3.5 Security](#security)
 
-### [Reflection]()
+### [Reflection](#4-reflection)
 
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
@@ -202,3 +202,12 @@ There are a lot of choises when developing software based on ethical and moral c
 
 # 4. Reflection
 
+> ## Setup
+>I feel ike my setup at the start of the semester was not nearly good enough.
+I have always had problems with this, I never setup my project corretly. This means I now have multiple folders with similar names and it gets harder and harder to keep track of which is the newest/the correct one. I also started by creating normal repositories, but when it started to get cluttered I made a github organisation. This was the better decision and helped me a lot with keeping everything organised. 
+
+> ## Naming
+> The next consistent problem this and other semesters was my naming of everything. I try to explain the thing it does in the name but this starts to overlap very quickly. After that I get really long names that look alike but have a different word in them, This gets very confusing and needs changing.
+
+> ## Planning
+> For our group project we started by creating a planning and we devided all the tasks in sprints and it all worked out great. For my individual project on the other hand, I should have made a better planning. I started the project with a kanban board but I never really kept it up to date. I also could have worked on and updated my portfolio throughout the semester.  
