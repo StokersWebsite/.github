@@ -45,6 +45,7 @@ For: Cv De Stokers and Fontys Semester 3
 >_Full-stack_: 
 >You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
+>### Front-End
 >For my website I designed a frontend that looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/173580473-793f520f-2152-4583-8eb5-1c19c9bfd9b3.png)
 >
