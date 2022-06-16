@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/73878099/172373718-1e27b565-88ea-44ab-bbdc-255b3256cc2f.png)
 
-># Stokers Portfolio
+># Stokers Portfolio🧾
 By: Rens Vlooswijk
 For: Cv De Stokers and Fontys Semester 3
 
@@ -178,7 +178,7 @@ This came in very handy to clean up my code.
 
 [Back to table of contents](#table-of-contents)
 
-# 3. Research
+# 3. Research🔎
 As of research i did for this semester:
 ## Ethics in software 
 >As in most things ethics also apply when creating software. You may think ethics arent a big  deal in software development, but you would be mistaken.
@@ -208,7 +208,7 @@ There are a lot of choises when developing software based on ethical and moral c
 
 # 4. Reflection
 
-> ## What went Well?
+> ## What went Well?👍
 > ### The project idea
 > Useually it is quite hard for me to think of a good and fun project that is the right difficulty. This time however I feel like I picked a great project, since the semester perfectly coalligned with the start of the Stokers organisation. This was a fun project to work on and had the right difficulty level so I could show everything I needed to know this semester, while still being usefull as an actual website for the stokers.
 >
@@ -221,7 +221,7 @@ There are a lot of choises when developing software based on ethical and moral c
 
 [Back to table of contents](#table-of-contents)
 
-> ## What could have gone better?
+> ## What could have gone better?👎
 > ### Setup
 >I feel ike my setup at the start of the semester was not nearly good enough.
 >I have always had problems with this, I never setup my project corretly. This means I now have multiple folders with similar names and it gets harder and harder to keep track of which is the newest/the correct one. I also started by creating normal repositories, but when it started to get cluttered I made a github organisation. This was the better decision and helped me a lot with keeping everything organised. 
@@ -231,6 +231,10 @@ There are a lot of choises when developing software based on ethical and moral c
 >
 > ### Planning
 > For our group project we started by creating a planning and we devided all the tasks in sprints and it all worked out great. For my individual project on the other hand, I should have made a better planning. I started the project with a kanban board but I never really kept it up to date. I also could have worked on and updated my portfolio throughout the semester.  
+
+## Conclusion
+>This semester was very educational even though there were lots of things that could have gone better.
+>So next semester I will start the project with a better setup and keep everything (more) up to date.
 
 [Back to table of contents](#table-of-contents)
 
