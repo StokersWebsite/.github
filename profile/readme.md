@@ -202,12 +202,26 @@ There are a lot of choises when developing software based on ethical and moral c
 
 # 4. Reflection
 
-> ## Setup
+> ## What went Well?
+> ### The project idea
+> Useually it is quite hard for me to think of a good and fun project that is the right difficulty. This time however I feel like I picked a great project, since the semester perfectly coalligned with the start of the Stokers organisation. This was a fun project to work on and had the right difficulty level so I could show everything I needed to know this semester, while still being usefull as an actual website for the stokers.
+>
+> ### The learning process
+> I have learned a LOT this semester. I decided to use JavaScript even though I had never done so before. I also learned about Auth0 and docker and a whole lot more external tools and software programs to help me make better projects, And I can go on and on. I even learned some Finnish this semester!
+> I feel like I got the most out of this semester in terms of what I learned, and this will be very usefull in the future.
+>
+> ### Eeventify
+> The group project also went really well in general, We had great communication both with each other as well as with the finnish students. In the end everything worked and we had a great time when they came to the Netherlands.
+
+> ## What could have gone better?
+> ### Setup
 >I feel ike my setup at the start of the semester was not nearly good enough.
-I have always had problems with this, I never setup my project corretly. This means I now have multiple folders with similar names and it gets harder and harder to keep track of which is the newest/the correct one. I also started by creating normal repositories, but when it started to get cluttered I made a github organisation. This was the better decision and helped me a lot with keeping everything organised. 
-
-> ## Naming
+>I have always had problems with this, I never setup my project corretly. This means I now have multiple folders with similar names and it gets harder and harder to keep track of which is the newest/the correct one. I also started by creating normal repositories, but when it started to get cluttered I made a github organisation. This was the better decision and helped me a lot with keeping everything organised. 
+>
+> ### Naming
 > The next consistent problem this and other semesters was my naming of everything. I try to explain the thing it does in the name but this starts to overlap very quickly. After that I get really long names that look alike but have a different word in them, This gets very confusing and needs changing.
-
-> ## Planning
+>
+> ### Planning
 > For our group project we started by creating a planning and we devided all the tasks in sprints and it all worked out great. For my individual project on the other hand, I should have made a better planning. I started the project with a kanban board but I never really kept it up to date. I also could have worked on and updated my portfolio throughout the semester.  
+
+
