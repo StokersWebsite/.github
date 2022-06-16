@@ -49,12 +49,6 @@ For: Cv De Stokers and Fontys Semester 3
 >For my website I designed a frontend that looks like this:
 ![FrontEndTour](https://github.com/StokersWebsite/.github/blob/8db5542a91276711fdff3c9b59a83044502f7d3f/Images/FrontEndTour.gif)
 >
->Furthermore it can show you all the upcomming activities:
-![image](https://user-images.githubusercontent.com/73878099/173631371-43c77552-1168-410f-9ff5-b87ced6dd071.png)
->
->You can also see the stokers specials on the website:
-![image](https://user-images.githubusercontent.com/73878099/173631594-dffdddd3-4290-409a-8ad4-2457a92fdae5.png)
->
 >Plus you can login using Auth0:
 >
 >![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
