@@ -59,6 +59,10 @@ For: Cv De Stokers and Fontys Semester 3
 >![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
 >
 >I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
+>
+>To document my api I used Swagger, because this gives a quick and clear indication on what the api can do.
+>![image](https://user-images.githubusercontent.com/73878099/174034295-0107b507-900e-4923-822e-f74407962577.png)
+>![image](https://user-images.githubusercontent.com/73878099/174034813-c133d3c1-b208-4e24-a958-6f9b5c7c73a2.png)
 
 [Back to table of contents](#table-of-contents)
 
@@ -215,6 +219,8 @@ There are a lot of choises when developing software based on ethical and moral c
 > ### Eeventify
 > The group project also went really well in general, We had great communication both with each other as well as with the finnish students. In the end everything worked and we had a great time when they came to the Netherlands.
 
+[Back to table of contents](#table-of-contents)
+
 > ## What could have gone better?
 > ### Setup
 >I feel ike my setup at the start of the semester was not nearly good enough.
@@ -226,4 +232,5 @@ There are a lot of choises when developing software based on ethical and moral c
 > ### Planning
 > For our group project we started by creating a planning and we devided all the tasks in sprints and it all worked out great. For my individual project on the other hand, I should have made a better planning. I started the project with a kanban board but I never really kept it up to date. I also could have worked on and updated my portfolio throughout the semester.  
 
+[Back to table of contents](#table-of-contents)
 
