@@ -23,6 +23,8 @@ For: Cv De Stokers and Fontys Semester 3
 - [3.4 How to obsidian](#how-to-obsidian)
 - [3.5 Security](#security)
 
+### [Reflection]()
+
 # 1. Introduction
 >This project is a website for the carnaval's organisation "De Stokers".
 >It is meant to attract more members to the organisation and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
@@ -197,3 +199,6 @@ There are a lot of choises when developing software based on ethical and moral c
 >[[📄 My Security]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Security.md)
 
 [Back to table of contents](#table-of-contents)
+
+# 4. Reflection
+
