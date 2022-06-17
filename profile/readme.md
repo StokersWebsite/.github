@@ -183,9 +183,11 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 >You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate >solutions for a given problem.
 >
 >### Eeventify
->
-> 
->#### For me this was both the easiest and the hardest to prove. I felt like everything I did this semester like the group project, my feedback usage and my on logical thinking based decisions proved that I acted in a professional manner. Even so I was never really sure if this was the way to show this.
+>#### The most of my professional skills were developed and shown in the group project (called Eeventify). First and foremost I went to Finland to establish the communications and setup the project. We decided to use discord as our main communication platform. We also exchanged numbers to make a group chat.
+>#### Together with all the dutch students we also set up a "definition of done". And we verbally agreed on a code of conduct. 
+>#### Since we didn's work for a company (and we were our own stakeholders), we only really had to communicate with the Finnish students and our other teacher (Bert).
+>#### We were all very up to date on what the rest of the group was doing although we maybe should have paid more attention to what the Finnish students were doing.
+>#### We did have sprint meetings every 3 weeks from which we received feedback from both the Finnish students and the teachers.
 
 [Back to table of contents](#table-of-contents)
 
