@@ -28,22 +28,22 @@ For: Cv De Stokers and Fontys Semester 3
 - [4.2 What could have gone better?](#what-could-have-gone-better) 
 
 # 1. Introduction
->This project is a website for the carnaval's organization "De Stokers".
->It is meant to attract more members to the organization and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
->
->The project uses a react frontend and a asp.net API that manages the activities.
->Furthermore it uses the instagram and YouTube API to show the stokers instagram feed and its YouTube specials.
+This project is a website for the carnaval's organization "De Stokers".
+It is meant to attract more members to the organization and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
+
+The project uses a react frontend and a asp.net API that manages the activities.
+Furthermore it uses the instagram and YouTube API to show the stokers instagram feed and its YouTube specials.
 
 # 2. Learning outcomes
 ## 1-FullStack
->### - _"You design and build **user-friendly**, **full-stack** web applications."_
->
->#### Clarification:
->_User friendly_: 
->You apply basic User experience testing and development techniques.
->
->_Full-stack_: 
->You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
+### - _"You design and build **user-friendly**, **full-stack** web applications."_
+
+#### Clarification:
+_User friendly_: 
+You apply basic User experience testing and development techniques.
+
+_Full-stack_: 
+You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
 >### Front-End
 >
