@@ -112,7 +112,7 @@ You design a release process and implement a continuous integration and deployme
 #### Now, whenever I push any new code to my main branch it would (try to) build the project. If this is successful it will run all the tests in the test project layer. And if all of these are successful as well it will deliver everything to docker hub from where it will deploy it on docker desktop.
 #### To see everything it does check out my [CI/CD yml File](https://github.com/StokersWebsite/StokersDataTransferService/blob/91455fa628611ab7de7c4412e441462df6672c92/.github/workflows/MainCI.yml).
 #### I then end up with a docker container that has the front-and-back end as well as the database (so everything). It all runs and works together to make a fully functioning website which I am relatively proud of. At the start of the semester I didn't think I could get this to work as well as it does but here we are.
-[CD github action](![image](https://user-images.githubusercontent.com/73878099/174228374-16c8fa91-78bf-4311-98b8-4fca2afc1084.png)
+![CD github action](https://user-images.githubusercontent.com/73878099/174228374-16c8fa91-78bf-4311-98b8-4fca2afc1084.png)
 
 ![[image]](https://github.com/StokersWebsite/.github/blob/f237d7180f1d9e2dd15e4b0b298508afa0b6a7ee/Images/DockerRunning.png)
 
