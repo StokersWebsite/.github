@@ -76,6 +76,9 @@ Furthermore it uses the instagram and YouTube API to show the stokers instagram 
 #### Another thing Sonarcloud picked up are some Security hotspots. It says my API is vulnerable since it is publicly accessible my everybody. But this is exactly the point since otherwise my own frontend wouldn't be able to use it either. So these 2 security hotspots are neglectable.
 #### To test if my API was working as intended I mainly used postman. This too was a good choice and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my api. But after using postman I found out this wasnt the case. Then I used sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
 ![Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
+#### In postman I also made intergration tests for my API
+![postman tests](https://user-images.githubusercontent.com/73878099/174308123-ae2aa45b-fc30-487e-b132-87d3308b081d.png)
+)
 ### Eeventify
 #### For the group project we also made integration tests, We felt like this was the most useful test since this was the best way to see if everybody's code could work together.
 #### And we also monitored the status of the application, We did this because the application runs on a group members home server and this way we could check if it was still working.
