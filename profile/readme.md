@@ -8,7 +8,7 @@ For: Cv De Stokers and Fontys Semester 3
 ### [1. Introduction](#3-research)
 ### [2. Learning outcomes](#2-learning-outcomes-1)
 - [2.1 FullStack](#1-fullstack)
-- [2.2 Tooling](#2-tooling)
+- [2.2 Software Quality](#2-software-quality)
 - [2.3 Agile](#3-agile)
 - [2.4 CI/CD](#4-cicd)
 - [2.5 Cultural Diffrences](#5-cultural-diffrences)
@@ -65,24 +65,23 @@ For: Cv De Stokers and Fontys Semester 3
 
 [Back to table of contents](#table-of-contents)
 
-## 2-Tooling
+## 2-Software Quality
 >### - _You use software **tooling and methodology** that continuously monitors and improve the software quality during software development._
 >
 >#### Clarification:
 >_Tooling and methodology_: 
 >Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code >analysis and code reviews.
 
->#### To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create >"Messy" code. I dont always remove my commented code that I am not going to use. And import things that I then dont use. This way I could easily find those things to >clean up my code. 
+>#### To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code. I dont always remove my commented code that I am not going to use. And import things that I then dont use. This way I could easily find those things to clean up my code. And so I did. I had personally never heard of sonarcloud before the semester but I think it is really usefull and I am deffinitly going to use this again, since it improved my code quality for sure.
 >![Sonarcloud](https://github.com/StokersWebsite/.github/blob/122b0a672e74e3130e2b491cc79e022a74f50596/Images/Sonarcloud.gif)
-
->#### I also used postman to test if my API was working correctly, here is a demonstration:
+>#### Another thing Sonarcloud picked up are some Security hotspots. It sais my API is vulnarable since it is publicaly accesable my everybody. But this is exactly the point since otherwise my own frontend woulnd be able to use it either. So these 2 security hotspots are neglectable.
+>#### To test if my API was working as intented I mainly used postman. This too was a good choise and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my api. But after using postman I found out this wasnt the case. Then I used sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
 >![Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
->#### Sonarcloud also mentions some Security hotspots but those are neglectable since I need that to make my API publically available.
 >### Eeventify
->#### For the group project we also made integration tests, We felt like this was the most usefull test since then we could see if everybody's code could work together.
->![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_test.png)
->#### And we monitored the status of the application, We did this because the application runs on a group members home server and this way we could check if it was still working.
+>#### For the group project we also made integration tests, We felt like this was the most usefull test since this was the best way to see if everybody's code could work together.
+>#### And we also monitored the status of the application, We did this because the application runs on a group members home server and this way we could check if it was still working.
 >![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_monitor.png)
+>#### As of this semester I learned a lot of new tools to improve my software quality. I feel like I used these to the best of my ability.
 
 [Back to table of contents](#table-of-contents)
 
@@ -93,10 +92,12 @@ For: Cv De Stokers and Fontys Semester 3
 >_Choose_: 
 >You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
->#### For the group project we used Scrum as our [[Agile]] method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. 
+>#### For the group project we used Scrum as our agile method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the finnish students had used this method before and would like to do it again. We also discussed Kanban but the main reason we didnt chose this is that it isnt based around sprints. For us sprints were very usefull since it allowed us to check our progress every few weeks since we had no idea how this project would go. The coöperation with the finnish students made it really hard to estimate all tasks we would be able to finish.
+>#### We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. None of the dutch students had ever heard of taiga but our teacher and the finish students were very positive about it so we decided we would try it out.
 >
->![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/Taiga%20Board%202.png)
->![[image]](https://github.com/StokersWebsite/.github/blob/078f45a6748fc5ed25ffdb03fc0781c31c266170/Images/Sprint%204%20completed.png)
+>![TaigaBoard](https://github.com/StokersWebsite/.github/blob/dd00cefd4046c3a1ebfb5f568a243db58f544672/Images/TaigaBoard.gif)
+>
+>#### I also wrote a research document about agile and scrum: [[📄Agile]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Agile.md)
 
 [Back to table of contents](#table-of-contents)
 
@@ -107,7 +108,11 @@ For: Cv De Stokers and Fontys Semester 3
 >_Design and implement_: 
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
->#### I used github actions to create a CI/CD pipeline. So everyime I pushed something to github it would check the code and then deploy it on docker. I felt this was the most educational and do-able, since I was already using github it made the most sense to use this as my CI/CD method since I could check it and deploy it everytime I updated my code, while not changing my codes location.
+>#### First of all, this was completely new to me and I learned a lot, Again with the new tools to help me make better projects. 
+>#### To setup my Ci/Cd pipeline I used github actions and docker. This was recommended to me by fellow students in my group project. 
+>Now, whenever I push any new code to my main branch it would (try to) build the project. If this is succesfull it will run all the tests in the test project layer. And if all of these are succesfull aswell it will deliver everything to docker hub from where it will deploy it on docker desktop.
+>To see everything it does check out my [CI/CD yml File](https://github.com/StokersWebsite/StokersDataTransferService/blob/91455fa628611ab7de7c4412e441462df6672c92/.github/workflows/MainCI.yml).
+>
 >![[image]](https://github.com/StokersWebsite/.github/blob/f237d7180f1d9e2dd15e4b0b298508afa0b6a7ee/Images/DockerRunning.png)
 >![[image]](https://github.com/StokersWebsite/.github/blob/11ec8d6b4546d83171fa616700d5d053ab0ffb10/Images/GithubActions.png)
 
