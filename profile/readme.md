@@ -132,8 +132,9 @@ Adapt your communication, working, and behavior styles to reflect project stakeh
 #### For me the cultural differences were very visible since I worked on the Oulu project with Finnish students. I feel like that we as dutch students inherited a lot of the Finnish ways of doing things. Like taiga, We had all never heard of it, but since the Finnish students had and liked it we decided to use it for this project as well.
 
 ### Ethics
-#### For [[Ethics]] we had to think of ways that our application might affect its users.
+#### For ethics we had to think of ways that our application might affect its users.
 #### Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activity, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
+To see more about ethics check out [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Ethics.md)
 
 [Back to table of contents](#table-of-contents)
 
