@@ -18,10 +18,9 @@ For: Cv De Stokers and Fontys Semester 3
 
 ### [3. Research](#3-research-1)
 - [3.1 Ethics](#ethics)
-- [3.2 Cultural Differences](#cultural-differences)
-- [3.3 Agile methods](#agile-methods)
-- [3.4 How to obsidian](#how-to-obsidian)
-- [3.5 Security](#security)
+- [3.2 Agile methods](#agile-methods)
+- [3.3 How to obsidian](#how-to-obsidian)
+- [3.4 Security](#security)
 
 ### [4. Reflection](#4-reflection-1)
 - [4.1 What went well?](#what-went-well)
@@ -145,7 +144,7 @@ Adapt your communication, working, and behavior styles to reflect project stakeh
 >_Multiple types of test techniques_ : 
 You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
-### teachers
+### Teachers
 #### I had multiple stakeholders including my teachers, cv de stokers members and myself.
 #### For the "user acceptance" of the teachers I of course had feedback moments and casual conversations (with Leon) about my project and progress. I did this because then I got to know more about what still had to be done. And I got some good tips on how to move forward.
 #### But it already started with the project idea, my teacher (Leon) was a big fan of picking a project which you would enjoy, instead of a basic project just to complete the learning outcomes. This is exactly what I did by making a website for the stokers. This in and of itself was stakeholder feedback that indirectly made the requirements.
@@ -245,9 +244,8 @@ To see this:
 ### Planning
 #### For our group project we started by creating a planning and we divided all the tasks in sprints and it all worked out great. For my individual project on the other hand, I should have made a better planning. I started the project with a kanban board but I never really kept it up to date. I also could have worked on and updated my portfolio throughout the semester.  
 
-## Conclusion
-#### This semester was very educational even though there were lots of things that could have gone better.
-#### So next semester I will start the project with a better setup and keep everything (more) up to date.
+>#### Conclusion
+>##### This semester was very educational even though there were lots of things that could have gone better. So next semester I will start the project with a better setup and keep everything (more) up to date.
 
 [Back to table of contents](#table-of-contents)
 
