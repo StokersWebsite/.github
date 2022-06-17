@@ -161,7 +161,16 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 [Back to table of contents](#table-of-contents)
 
 ## 7-Business process
-- _You analyze and describe **simple** business processes that are **related** to your project._
+>### - _You analyze and describe **simple** business processes that are **related** to your project._
+
+>#### Clarification:
+>_Simple_ : 
+>Involving stakeholders, predominantly sequential processes with one or two alternative paths.
+>
+>_Related_ : 
+>Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating >them).
+>or
+>Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
 (to be added)
 
@@ -169,9 +178,13 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 
 ## 8-Professional
 - _You act in a **professional manner** during software development and learning._
-
+>#### Clarification:
+>_Professional manner_ : 
+>You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate >solutions for a given problem.
+>
 >### Eeventify
->The 
+>
+> 
 >#### For me this was both the easiest and the hardest to prove. I felt like everything I did this semester like the group project, my feedback usage and my on logical thinking based decisions proved that I acted in a professional manner. Even so I was never really sure if this was the way to show this.
 
 [Back to table of contents](#table-of-contents)
