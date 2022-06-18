@@ -219,7 +219,7 @@ To check that out:
 This semester I also learned a lot about security, And especially on what to do about security for specific types of project. This is why my security research is (primarily) about what my project needed for security.
 To see this:
 
-[[📄 My Security]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Security.md)
+[[📄 My Security]](https://github.com/StokersWebsite/Documentation/blob/ae63327986640e275a164948c948fe1a777dfe00/Semester%203/Individueel/Stokers/Research/Security.md)
 
 [Back to table of contents](#table-of-contents)
 
