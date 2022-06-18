@@ -31,7 +31,7 @@ This project is a website for the carnaval's organization "De Stokers".
 It is meant to attract more members to the organization and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
 I chose for this project because we just started the organization and we still needed a website so I could combine my semester with this.
 The project uses a react frontend and a asp.net API that manages the activities.
-Furthermore it uses the instagram and YouTube API to show the stokers instagram feed and its YouTube specials.
+Furthermore it uses the instagram and YouTube API to show the Stokers instagram feed and its YouTube specials.
 
 # 2. Learning outcomes
 ## 1-FullStack
@@ -47,8 +47,8 @@ Furthermore it uses the instagram and YouTube API to show the stokers instagram 
 ### Front-End
 
 #### For my "second frontend" I created an auth0 login, The idea was that Stokers members have an account and can login while other users can not make an account.
-#### The most answered feature to the question "What would you like to have on the website" the most common answer was to see the upcoming activities. So this was my main priority. So now the main feature of the website is the activities tab, on here you can see all the stokers activities and "join" so the event planners know how many people are going to come. If you are a stokers member and not just a user of the website you can also add an activity. For example if you are going to throw a carnaval related party of some sorts you can create this as an activity on the website.
-#### Another item on the frontend is the YouTube video's. the stokers created a song cover and a carnavals press conference, which you can see on the website. 
+#### The most answered feature to the question "What would you like to have on the website" the most common answer was to see the upcoming activities. So this was my main priority. So now the main feature of the website is the activities tab, on here you can see all the Stokers activities and "join" so the event planners know how many people are going to come. If you are a Stokers member and not just a user of the website you can also add an activity. For example if you are going to throw a carnaval related party of some sorts you can create this as an activity on the website.
+#### Another item on the frontend is the YouTube video's. the Stokers created a song cover and a carnavals press conference, which you can see on the website. 
 
 ####  All of this together looks like this:
 ![FrontEndTour](https://github.com/StokersWebsite/.github/blob/8db5542a91276711fdff3c9b59a83044502f7d3f/Images/FrontEndTour.gif)
@@ -59,7 +59,7 @@ Furthermore it uses the instagram and YouTube API to show the stokers instagram 
 #### I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
 
 ### Back-End
-#### For the websites backend I used ASP.Net / C#. I picked this because I already had experience with this and since I already picked a (for me) new frontend framework and language I felt like this was the best option. Because this way I would still learn a lot of new things but I would also be able to have some functionality. For the group project we chose for a micro-service structure but I felt this was way to over complicated for my personal project. That's why I just have 1 API which can get all the activities and add new activities.
+#### For the websites backend I used ASP.Net / C#. I picked this because I already had experience with this and since I already picked a (for me) new frontend framework and language I felt like this was the best option. Because this way I would still learn a lot of new things but I would also be able to have some functionality. For the group project we chose for a micro-service structure but this would be over engineering, which would be a waste of time. That's why I just have 1 API which can get all the activities and add new activities.
 ![Swagger Gif](https://github.com/StokersWebsite/.github/blob/1899216aaaadb96c6db2d5a38fde6bf4e5d6e958/Images/swagger.gif)
 
 [Back to table of contents](#table-of-contents)
@@ -71,12 +71,13 @@ Furthermore it uses the instagram and YouTube API to show the stokers instagram 
 >_Tooling and methodology_: 
 >Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code >analysis and code reviews.
 
-#### To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code. I don't always remove my commented code that I am not going to use. And import things that I then don't use. This way I could easily find those things to clean up my code. And so I did. I had personally never heard of sonarcloud before the semester but I think it is really useful and I am definitely going to use this again, since it improved my code quality for sure.
+#### To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code. I don't always remove my commented code that I am not going to use. And import things that I then don't use. This way I could easily find those things to clean up my code. And so I did. I had personally never heard of Sonarcloud before the semester but I think it is really useful and I am definitely going to use this again, since it improved my code quality for sure.
 ![Sonarcloud](https://github.com/StokersWebsite/.github/blob/122b0a672e74e3130e2b491cc79e022a74f50596/Images/Sonarcloud.gif)
-#### Another thing Sonarcloud picked up are some Security hotspots. It says my API is vulnerable since it is publicly accessible my everybody. But this is exactly the point since otherwise my own frontend wouldn't be able to use it either. So these 2 security hotspots are neglectable.
-#### To test if my API was working as intended I mainly used postman. This too was a good choice and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my api. But after using postman I found out this wasnt the case. Then I used sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
+#### Another thing Sonarcloud picked up are some Security hotspots. It says my API is vulnerable since it is publicly accessible for everybody. But this is exactly the point since otherwise my own frontend wouldn't be able to use it either. So these 2 security hotspots are neglectable.
+#### To test if my API was working as intended I mainly used postman. This too was a good choice and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my API. But after using postman I found out this wasnt the case. Then I used Sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
 ![Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
-#### In postman I also made intergration tests for my API
+#### In postman I also made intergration tests for my API, I chose for intergration tests in postman rather than testing the logic layer of my API since it doesn't have that much logic functions, so it wouldn't be useful.
+These tests could also work as unit [regression tests](https://www.guru99.com/regression-testing.html) by running it daily (or weekly) but that doesn't work if it runs on docker (locally).
 ![postman tests](https://user-images.githubusercontent.com/73878099/174308123-ae2aa45b-fc30-487e-b132-87d3308b081d.png)
 )
 ### Eeventify
@@ -132,11 +133,11 @@ You design a release process and implement a continuous integration and deployme
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
 ### Finland
-#### For me the cultural differences were very visible since I worked on the Oulu project with Finnish students. I feel like that we as dutch students inherited a lot of the Finnish ways of doing things. Like taiga, We had all never heard of it, but since the Finnish students had and liked it we decided to use it for this project as well.
+#### For me the cultural differences were very visible since I worked on the Oulu project with Finnish students. I feel like that we as dutch students inherited a lot of the Finnish ways of doing things. Like taiga, We had all never heard of it, but since the Finnish students had, and liked it we decided to use it for this project as well.
 
 ### Ethics
 #### For ethics we had to think of ways that our application might affect its users.
-#### Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activity, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
+#### Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activities, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
 To see more about ethics check out [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Ethics.md)
 
 [Back to table of contents](#table-of-contents)
@@ -149,9 +150,9 @@ To see more about ethics check out [[📄Ethics research]](https://github.com/St
 You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 ### Teachers
-#### I had multiple stakeholders including my teachers, cv de stokers members and myself.
+#### I had multiple stakeholders including my teachers, cv de Stokers members and myself.
 #### For the "user acceptance" of the teachers I of course had feedback moments and casual conversations (with Leon) about my project and progress. I did this because then I got to know more about what still had to be done. And I got some good tips on how to move forward.
-#### But it already started with the project idea, my teacher (Leon) was a big fan of picking a project which you would enjoy, instead of a basic project just to complete the learning outcomes. This is exactly what I did by making a website for the stokers. This in and of itself was stakeholder feedback that indirectly made the requirements.
+#### But it already started with the project idea, my teacher (Leon) was a big fan of picking a project which you would enjoy, instead of a basic project just to complete the learning outcomes. This is exactly what I did by making a website for the Stokers. This in and of itself was stakeholder feedback that indirectly made the requirements.
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
 ### Stokers members
 #### I also got feedback as user acceptance testing from Stokers members, first of all about the requirements of course. I did this at the start because I wanted to #### know what all the members wanted in the site. 
@@ -203,7 +204,7 @@ There are a lot of choices when developing software based on ethical and moral c
 [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Ethics.md)
 
 ## Agile Methods
-There are more than one correct agile methods that you can use for a group project. We chose for Scum, to learn more about scrum and other agile methods:
+There are more than one correct agile methods that you can use for a group project. We chose for Scrum, to learn more about scrum and other agile methods:
 
 [[📄Agile]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Agile.md)
 
@@ -226,14 +227,14 @@ To see this:
 
 ## What went Well?👍
 ### The project idea
-#### usually it is quite hard for me to think of a good and fun project that is the right difficulty. This time however I feel like I picked a great project, since the semester perfectly co-aligned with the start of the Stokers organization. This was a fun project to work on and had the right difficulty level so I could show everything I needed to know this semester, while still being useful as an actual website for the stokers.
+#### usually it is quite hard for me to think of a good and fun project that is the right difficulty. This time however I feel like I picked a great project, since the semester perfectly co-aligned with the start of the Stokers organization. This was a fun project to work on and had the right difficulty level so I could show everything I needed to know this semester, while still being useful as an actual website for the Stokers.
 
 ### The learning process
 #### I have learned a LOT this semester. I decided to use JavaScript even though I had never done so before. I also learned about Auth0 and docker and a whole lot more external tools and software programs to help me make better projects, And I can go on and on. I even learned some Finnish this semester!
 #### I feel like I got the most out of this semester in terms of what I learned, and this will be very useful in the future.
 
 ### Eeventify
-#### The group project also went really well in general, We had great communication both with each other as well as with the finnish students. In the end everything worked and we had a great time when they came to the Netherlands.
+#### The group project also went really well in general, We had great communication both with each other as well as with the Finnish students. In the end everything worked and we had a great time when they came to the Netherlands.
 
 [Back to table of contents](#table-of-contents)
 
