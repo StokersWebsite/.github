@@ -213,7 +213,7 @@ For my personal research this semester I chose "How to obsidian". My teacher rec
 I liked it so much that I wanted to do my research about it too. 
 To check that out:
 
-[[📄 How to Obsidian]](https://github.com/StokersWebsite/Documentation/blob/75688537aafa688205a0d1eacd6fa52a0c5ee8bb/Semester%203/Individueel/Stokers/Research/Obsidian.md)
+[[📄 How to Obsidian]](https://github.com/StokersWebsite/Documentation/blob/129f4f2c9e5ea5a1ea89f0b696f400534f582919/Semester%203/Individueel/Stokers/Research/Obsidian.md)
 
 ## Security
 This semester I also learned a lot about security, And especially on what to do about security for specific types of project. This is why my security research is (primarily) about what my project needed for security.
