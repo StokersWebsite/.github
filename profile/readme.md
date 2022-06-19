@@ -27,9 +27,9 @@ For: Cv De Stokers and Fontys Semester 3
 - [4.2 What could have gone better?](#what-could-have-gone-better) 
 
 # 1. Introduction
-This project is a website for the carnaval's organization "De Stokers".
-It is meant to attract more members to the organization and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a caranval press conference.
-I chose for this project because we just started the organization and we still needed a website so I could combine my semester with this.
+This project is a website for the carnaval's association "De Stokers".
+It is meant to attract more members to the association and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a carnaval press conference.
+I chose for this project because we just started the association and we still needed a website so I could combine my semester with this.
 The project uses a react frontend and a asp.net API that manages the activities.
 Furthermore it uses the instagram and YouTube API to show the Stokers instagram feed and its YouTube specials.
 
