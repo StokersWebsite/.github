@@ -44,16 +44,22 @@ Furthermore it uses the instagram and YouTube API to show the Stokers instagram 
 >_Full-stack_: 
 >You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) >choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
+### Design
+
+When I first started the project I created a class diagram, but as my project expanded I realised this was not enough of a design. So throughout the semester I created and improved a c4 diagram (with a class diagram). The main reason for this diagram is that if I would not be able to finish the project it would be easier for someone else to do so.
+
+![C4 DiagramWithBg](https://user-images.githubusercontent.com/73878099/174475957-74e007ea-20d8-4066-8cc0-d7370e22d7a7.png)
+
 ### Front-End
 
-#### For my "second frontend" I created an auth0 login, The idea was that Stokers members have an account and can login while other users can not make an account.
 #### The most answered feature to the question "What would you like to have on the website" the most common answer was to see the upcoming activities. So this was my main priority. So now the main feature of the website is the activities tab, on here you can see all the Stokers activities and "join" so the event planners know how many people are going to come. If you are a Stokers member and not just a user of the website you can also add an activity. For example if you are going to throw a carnaval related party of some sorts you can create this as an activity on the website.
 #### Another item on the frontend is the YouTube video's. the Stokers created a song cover and a carnavals press conference, which you can see on the website. 
 
 ####  All of this together looks like this:
 ![FrontEndTour](https://github.com/StokersWebsite/.github/blob/8db5542a91276711fdff3c9b59a83044502f7d3f/Images/FrontEndTour.gif)
 
- #### And the auth0 login looks like this:
+#### For my "second frontend" I created an auth0 login, The idea was that Stokers members have an account and can login while other users can not make an account.
+
 ![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
 
 #### I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
