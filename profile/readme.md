@@ -30,7 +30,7 @@ For: Cv De Stokers and Fontys Semester 3
 This project is a website for the carnaval's association "De Stokers".
 It is meant to attract more members to the association and to plan and see all upcoming activities that they are going to partake in. Plus you can see pictures and videos of previous activities and specials like the "Mooi man" cover and a carnaval press conference.
 I chose for this project because we just started the association and we still needed a website so I could combine my semester with this.
-The project uses a react frontend and a asp.net API that manages the activities.
+The project uses a [react](https://reactjs.org/) frontend and a asp.net API that manages the activities.
 Furthermore it uses the instagram and YouTube API to show the Stokers instagram feed and its YouTube specials.
 
 # 2. Learning outcomes
@@ -62,11 +62,15 @@ When I first started the project I created a class diagram, but as my project ex
 
 ![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
 
-#### I made this using React JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
+#### I made this using [React](https://reactjs.org/) JS because I had never used Javascript and I would love to learn it since it is growing in popularity and it seemed to be handy in the future.
+
+#### To check out all the code go to [Stokers Frontend](https://github.com/StokersWebsite/StokersReactWebsite)
 
 ### Back-End
 #### For the websites backend I used ASP.Net / C#. I picked this because I already had experience with this and since I already picked a (for me) new frontend framework and language I felt like this was the best option. Because this way I would still learn a lot of new things but I would also be able to have some functionality. For the group project we chose for a micro-service structure but this would be over engineering, which would be a waste of time. That's why I just have 1 API which can get all the activities and add new activities.
 ![Swagger Gif](https://github.com/StokersWebsite/.github/blob/1899216aaaadb96c6db2d5a38fde6bf4e5d6e958/Images/swagger.gif)
+
+#### To see the API's code go to [Stokers API](https://github.com/StokersWebsite/StokersDataTransferService)
 
 [Back to table of contents](#table-of-contents)
 
@@ -77,7 +81,7 @@ When I first started the project I created a class diagram, but as my project ex
 >_Tooling and methodology_: 
 >Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code >analysis and code reviews.
 
-#### To complete this I used Sonarcloud, This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code. I don't always remove my commented code that I am not going to use. And import things that I then don't use. This way I could easily find those things to clean up my code. And so I did. I had personally never heard of Sonarcloud before the semester but I think it is really useful and I am definitely going to use this again, since it improved my code quality for sure.
+#### To complete this I used [Sonarcloud](https://sonarcloud.io/), This checked my code each time I pushed something to git. I chose for this type of static code analysis since I usually create "Messy" code. I don't always remove my commented code that I am not going to use. And import things that I then don't use. This way I could easily find those things to clean up my code. And so I did. I had personally never heard of Sonarcloud before the semester but I think it is really useful and I am definitely going to use this again, since it improved my code quality for sure.
 ![Sonarcloud](https://github.com/StokersWebsite/.github/blob/122b0a672e74e3130e2b491cc79e022a74f50596/Images/Sonarcloud.gif)
 #### Another thing Sonarcloud picked up are some Security hotspots. It says my API is vulnerable since it is publicly accessible for everybody. But this is exactly the point since otherwise my own frontend wouldn't be able to use it either. So these 2 security hotspots are neglectable.
 #### To test if my API was working as intended I mainly used postman. This too was a good choice and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my API. But after using postman I found out this wasnt the case. Then I used Sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
@@ -86,7 +90,7 @@ When I first started the project I created a class diagram, but as my project ex
 These tests could also work as unit [regression tests](https://www.guru99.com/regression-testing.html) by running it daily (or weekly) but that doesn't work if it runs on docker (locally).
 ![postman tests](https://user-images.githubusercontent.com/73878099/174308123-ae2aa45b-fc30-487e-b132-87d3308b081d.png)
 )
-### Eeventify
+### [Eeventify](https://github.com/Eeventify)
 #### For the group project we also made integration tests, We felt like this was the most useful test since this was the best way to see if everybody's code could work together.
 #### And we also monitored the status of the application, We did this because the application runs on a group members home server and this way we could check if it was still working.
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/eeventify_postman_monitor.png)
@@ -170,7 +174,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 ![User Story 2](https://user-images.githubusercontent.com/73878099/174552590-da8ca1ed-1f82-4baa-a9c9-8e39b6430b46.png)
 ![User Story 3](https://user-images.githubusercontent.com/73878099/174552783-8e03b2b4-f225-41eb-a1c7-5d0686df7137.png)
 
-### Eeventify
+### [Eeventify](https://github.com/Eeventify)
 #### for the group project we planned everything out way better than for my personal project, we made a lot more diagrams and discussed the requirements (while in Finland) extensively.
 ![image](https://github.com/StokersWebsite/.github/blob/bfdb67662045b1986345ef1bd5f140006d0e8c87/Images/unknown.png)
 
@@ -198,7 +202,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 >_Professional manner_ : 
 >You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions. You choose and substantiate >solutions for a given problem.
 
-### Eeventify
+### [Eeventify](https://github.com/Eeventify)
 #### The most of my professional skills were developed and shown in the group project (called Eeventify). First and foremost I went to Finland to establish the communications and setup the project. We decided to use discord as our main communication platform. We also exchanged numbers to make a group chat.
 #### Together with all the dutch students we also set up a "definition of done". And we verbally agreed on a code of conduct. 
 #### Since we didn's work for a company (and we were our own stakeholders), we only really had to communicate with the Finnish students and our other teacher (Bert).
@@ -245,7 +249,7 @@ To see this:
 #### I have learned a LOT this semester. I decided to use JavaScript even though I had never done so before. I also learned about Auth0 and docker and a whole lot more external tools and software programs to help me make better projects, And I can go on and on. I even learned some Finnish this semester!
 #### I feel like I got the most out of this semester in terms of what I learned, and this will be very useful in the future.
 
-### Eeventify
+### [Eeventify](https://github.com/Eeventify)
 #### The group project also went really well in general, We had great communication both with each other as well as with the Finnish students. In the end everything worked and we had a great time when they came to the Netherlands.
 
 [Back to table of contents](#table-of-contents)
