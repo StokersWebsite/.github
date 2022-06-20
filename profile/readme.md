@@ -22,6 +22,7 @@ For: Cv De Stokers and Fontys Semester 3
 - [3.2 Agile methods](#agile-methods)
 - [3.3 How to obsidian](#how-to-obsidian)
 - [3.4 Security](#security)
+- [3.5 Cultural Differences](#cultural-differences)
 
 ### [4. Reflection](#4-reflection-1)
 - [4.1 What went well?](#what-went-well)
@@ -237,6 +238,9 @@ This semester I also learned a lot about security, And especially on what to do 
 To see this:
 
 [[📄 My Security]](https://github.com/StokersWebsite/Documentation/blob/ae63327986640e275a164948c948fe1a777dfe00/Semester%203/Individueel/Stokers/Research/Security.md)
+
+## Cultural Differences
+
 
 [Back to table of contents](#table-of-contents)
 
