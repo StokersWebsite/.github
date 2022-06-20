@@ -49,8 +49,8 @@ If a software engineer creates a social application this is not a ethical proble
 ### Loot Boxes
 
 >### Sources:
->https://www.britannica.com/topic/ethics-philosophy
->https://www.ethicalweb.org/
->https://fhict.instructure.com/courses/12075/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=749683
->https://ethics.acm.org/code-of-ethics/software-engineering-code/
->https://thenewstack.io/five-principles-software-ethics/
+> - https://www.britannica.com/topic/ethics-philosophy
+> - https://www.ethicalweb.org/
+> - https://fhict.instructure.com/courses/12075/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make?module_item_id=749683
+> - https://ethics.acm.org/code-of-ethics/software-engineering-code/
+> - https://thenewstack.io/five-principles-software-ethics/
