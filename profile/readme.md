@@ -161,9 +161,15 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### But it already started with the project idea, my teacher (Leon) was a big fan of picking a project which you would enjoy, instead of a basic project just to complete the learning outcomes. This is exactly what I did by making a website for the Stokers. This in and of itself was stakeholder feedback that indirectly made the requirements.
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Feedpulse.png)
 ### Stokers members
-#### I also got feedback as user acceptance testing from Stokers members, first of all about the requirements of course. I did this at the start because I wanted to #### know what all the members wanted in the site. 
+#### I also got feedback as user acceptance testing from Stokers members, first of all about the requirements of course. I did this at the start because I wanted to know what all the members wanted in the site. 
 #### From this I learned that most members would like a activities tab on which they can see what events are coming up, which I then added to the requirements.
+
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Activity%20requirements.png)
+#### I also made user stories to know exactly what the website should be able to do?
+![user story 1](https://user-images.githubusercontent.com/73878099/174552479-ca77bc71-bb7e-4857-8839-c950cda420fb.png)
+![User Story 2](https://user-images.githubusercontent.com/73878099/174552590-da8ca1ed-1f82-4baa-a9c9-8e39b6430b46.png)
+![User Story 3](https://user-images.githubusercontent.com/73878099/174552783-8e03b2b4-f225-41eb-a1c7-5d0686df7137.png)
+
 ### Eeventify
 #### for the group project we planned everything out way better than for my personal project, we made a lot more diagrams and discussed the requirements (while in Finland) extensively.
 ![image](https://github.com/StokersWebsite/.github/blob/bfdb67662045b1986345ef1bd5f140006d0e8c87/Images/unknown.png)
