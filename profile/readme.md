@@ -2,6 +2,7 @@
 
 ># Stokers Portfolio🧾
 By: Rens Vlooswijk
+
 For: Cv De Stokers and Fontys Semester 3
 
 # Table of Contents:
