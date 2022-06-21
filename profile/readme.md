@@ -56,8 +56,12 @@ When I first started the project I created a class diagram, but as my project ex
 
 #### The most answered feature to the question "What would you like to have on the website" the most common answer was to see the upcoming activities. So this was my main priority. So now the main feature of the website is the activities tab, on here you can see all the Stokers activities and "join" so the event planners know how many people are going to come. If you are a Stokers member and not just a user of the website you can also add an activity. For example if you are going to throw a carnaval related party of some sorts you can create this as an activity on the website.
 #### Another item on the frontend is the YouTube video's. the Stokers created a song cover and a carnavals press conference, which you can see on the website. 
+#### Since it is a carnaval's website its original design was:
 
-####  All of this together looks like this:
+![InitialDesign](https://user-images.githubusercontent.com/73878099/174807671-5fc12593-8c43-41d3-9ecb-03f8e72f6469.png)
+
+#### But the focus of the semester was not on design so currently it looks like this:
+
 ![FrontEndTour](https://github.com/StokersWebsite/.github/blob/8db5542a91276711fdff3c9b59a83044502f7d3f/Images/FrontEndTour.gif)
 
 #### For my "second frontend" I created an auth0 login, The idea was that Stokers members have an account and can login while other users can not make an account.
