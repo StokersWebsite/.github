@@ -219,25 +219,25 @@ As of research I did for this semester:
 As in most things ethics, also apply when creating software. You may think ethics aren't a big  deal in software development, but you would be mistaken.
 There are a lot of choices when developing software based on ethical and moral choices. To see my full ethics research:
 
-[[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Ethics.md)
+[[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/main/Research/Ethics.md)
 
 ## Agile Methods
 There are more than one correct agile methods that you can use for a group project. We chose for Scrum, to learn more about scrum and other agile methods:
 
-[[📄Agile]](https://github.com/StokersWebsite/.github/blob/31c1068a435684bf41054adccb10a86c87268d3d/Research/Agile.md)
+[[📄Agile]](https://github.com/StokersWebsite/.github/blob/main/Research/Agile.md)
 
 ## How to obsidian
 For my personal research this semester I chose "How to obsidian". My teacher recommended that I start using obsidian, and so I did. 
 I liked it so much that I wanted to do my research about it too. 
 To check that out:
 
-[[📄 How to Obsidian]](https://github.com/StokersWebsite/Documentation/blob/129f4f2c9e5ea5a1ea89f0b696f400534f582919/Semester%203/Individueel/Stokers/Research/Obsidian.md)
+[[📄 How to Obsidian]](https://github.com/StokersWebsite/.github/blob/main/Research/Obsidian.md)
 
 ## Security
 This semester I also learned a lot about security, And especially on what to do about security for specific types of project. This is why my security research is (primarily) about what my project needed for security.
 To see this:
 
-[[📄 My Security]](https://github.com/StokersWebsite/Documentation/blob/ae63327986640e275a164948c948fe1a777dfe00/Semester%203/Individueel/Stokers/Research/Security.md)
+[[📄 My Security]](https://github.com/StokersWebsite/.github/blob/main/Research/Security.md)
 
 ## Cultural Differences
 
