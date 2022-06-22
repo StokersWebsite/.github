@@ -1,11 +1,11 @@
 # Cultural differences in software
 
 ## Table of contents:
-- What is culture?
-- Which are well-known dimensions on cultural differences? 
-- What is my culture
-- cultural restrictions
-- Eeventify
+- [What is culture?](#what-is-culture)
+- [Which are well-known dimensions on cultural differences?](#which-are-well-known-dimensions-on-cultural-differences) 
+- [What is my culture](#what-is-my-culture)
+- [cultural restrictions](#cultural-restrictions)
+- [Eeventify](#eeventify)
 
 ## What is culture?
 The definition of culture is:
