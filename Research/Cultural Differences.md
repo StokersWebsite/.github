@@ -63,10 +63,14 @@ These things are very different per culture, but they don't really affect the de
 Another example is loot boxes. In some countries they are banned while in others they are not. This however can affect the developer (of a game) since he is then not allowed to "sell" his software in certain countries unless he removes the loot boxes. If you want to know more about this controversy you should check out [Loot Box ethics research](https://github.com/StokersWebsite/.github/edit/main/Research/Ethics.md#loot-boxes).
 
 ## Eeventify
+![Dutch/FinnishFlag](https://user-images.githubusercontent.com/73878099/175038299-78026856-892c-491b-9f5a-6bd1dda4e677.png)
+
 My personal experience mostly comes from the [Eeventify](https://github.com/Eeventify) project. This is a project we did this semester together with a group of students from Finland. In Febuary (2022) [Tjerk](https://github.com/TjerkZ), [Timo](https://github.com/timojw) and me went to the [Oulu university of applied sciences](https://www.oamk.fi/en/). While we were there we came up with a project we could work on during our semester. Throughout the semester we came across a lot of cultural differences that we had to overcome to get a finished product by the end of the semester.
 
 For example the communication, We as Dutch students knew exactly what each of us was doing every day we worked on the project. In Finland however it seemed like they were all building a different application. But when things had to be discussed between Dutch and Finnish students this always happened correctly and efficiently.
 So eventually even we (as dutch students) knew what each Finnish student was doing during a sprint.
+
+The Finnish students were generally very cooperative, and quick to compromise. If we ever had a disagreement on what something should be we could therefore easily find a compromise. 
 
 We all learned a lot about working with developers from a different culture. And when given the opportunity I would deffinitly want to work with other cultures.
 Yes it does create another challange but I thought it was fun and educational to overcome this.
