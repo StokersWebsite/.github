@@ -71,7 +71,6 @@ So eventually even we (as dutch students) knew what each Finnish student was doi
 We all learned a lot about working with developers from a different culture. And when given the opportunity I would deffinitly want to work with other cultures.
 Yes it does create another challange but I thought it was fun and educational to overcome this.
 
-
 > ### sources
 > - https://fhict.instructure.com/courses/12075/pages/group-management-can-you-work-with-people-from-other-cultures?module_item_id=749679 
 > - https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
