@@ -214,6 +214,12 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### We were all very up to date on what the rest of the group was doing although we maybe should have paid more attention to what the Finnish students were doing.
 #### We did have sprint meetings every 3 weeks from which we received feedback from both the Finnish students and the teachers.
 
+And we gave eachother peer feedback, usually verbally. This was always very valuable since I then knew what the other students thought I should improve on.
+It was also very motivating because they often also mentioned things I did well.
+
+![PeerFeedback](https://user-images.githubusercontent.com/73878099/175050663-a8d6d7bf-eb0a-4c51-ac92-34617baa01da.png)
+
+
 [Back to table of contents](#table-of-contents)
 
 # 3. Research🔎
