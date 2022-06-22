@@ -2,39 +2,43 @@
 
 By Rens Vlooswijk
 
-## table of contents:
+## Table of contents:
 - [Introduction](introduction)
 - [**What** Are ethics?](#what-are-ethics)
 - [Ethics in software](#ethics-in-software)
 - [**Why** are ethics important in software?](#why-are-ethics-such-an-important-part-of-software-development)
 - [**How** can you abuse software?](#how-could-you-abuse-software)
+- [What can you do to adress ethics](#what-can-you-do-to-adress-ethics)
 - [Adverts](#adverts)
 - [Loot boxes](#loot-boxes)
 
-### Introduction  
+## Introduction  
 As in most things ethics also apply when creating software. You may think ethics arent a big  deal in software development, but you would be mistaken.
 There are a lot of choises when developing software based on ethical and moral choises.
 
-### What are ethics?
+## What are ethics?
 The definition is: "ethics, also called moral philosophy, the discipline concerned with what is morally good and bad and morally right and wrong. The term is also applied to any system or theory of moral values or principles." 
 But ofcourse the idea of ethics differs from the ethics code in software development.
 
-### Ethics in software
+## Ethics in software
+
+![LevelsOfEthicalIssues](https://user-images.githubusercontent.com/73878099/174975283-ee5296f1-dc79-4298-985a-f84320414fe3.png)
+
 There are 4 main principles of ethical web development that every developer should strive to stick to.
 
-#### web applications should work for everyone
+### web applications should work for everyone
 A developer should prioratize accessibility so you dont exclude anyone. This also means he should test with real users on all kind of platforms.
 
-#### Web applications should work everywhere
+### Web applications should work everywhere
 When creating an application you should always ofcourse value performance. But this also has an impact on its ethical aspects, since this allows everybody to acces your application from pretty much everywhere.
 
-#### web applications should respect a user's privacy and security
+### web applications should respect a user's privacy and security
 Probably the most important aspect of ethics in software according to most users is Privacy and security.
 This is because if your websites security isnt sufficient people personal information can be leaked.
 This is why you should use https everywehre, secure user data, provide users with clear information about how their information is used and allow users to export their data.
 As of for how your website deals with privacy, you should always respect the users preferences.
 
-#### web developers should be considerate of their peers
+### web developers should be considerate of their peers
 One does this by:
 - Commenting and documenting code
 - properly test code
@@ -43,29 +47,46 @@ One does this by:
 - treat other developers with respect
 - follow the code of conduct
 
-### Why are ethics such an important part of software development?
+## Why are ethics such an important part of software development?
 When you create a piece of software and it becomes popular you have the possibilty to abuse this. This woulnd be that hard to do and could earn you a lot more money. So a lot of software engineers will probably be tempted. And when not corrected by a moral compass he or she can have a large impact on a lot of peoples lives.
 
-### How could you abuse software 
+## How could you abuse software 
 There are lots of ways to abuse software development.
 First and foremost you can sell a users private information.
 For most applications you will need to create a account, to get this account you will most likely need to fill in some or a lot of personal information depending on the application.
 If the software developer is willing to he or she can sell this information to someone who will then abuse it.  
 
+### Deceptive design
 you could also add something in small text at the bottom of a users agreement, Most users wont read that anyways and without a moral compass you can easily have a user agree to something that he or she doesnt want.
-
-But the most problematic for most people is the financial side of it all. If you need to pay for the application the user fills out his or her bank information , this in of itself is problematic if the application gets hacked and the information is leaked. But that is something further explained in the security analysis since it has to do with the security of the application rather than the ethics of software. 
-
-Furthermore if the software engineer adds a monthly payment instead of a yearly payment and users can lose a lot of money through software.
 
 Another possiblility is to make the design of your software as addictive as possible.
 If you make a design addictive it may be good for you but most likely not for the user.
+
+### Dark patterns
+As a software engeneer you can use dark patterns:
+![DarkPatterns](https://user-images.githubusercontent.com/73878099/174976543-57e1d6af-f600-45fd-8fd7-2de847791719.png)
+
+This can also be done by using words that make a user want to or not want to click.
+
+![ILikeSpendingMoney](https://user-images.githubusercontent.com/73878099/174976898-d2034512-c584-48bb-8ec4-6bd2ce881296.png)
+
+### Finance
+But the most problematic for most people is the financial side of it all. If you need to pay for the application the user fills out his or her bank information , this in of itself is problematic if the application gets hacked and the information is leaked. But that is something further explained in the security analysis since it has to do with the security of the application rather than the ethics of software. 
+
+Furthermore if the software engineer adds a monthly payment instead of a yearly payment and users can lose a lot of money through software.
 
 ### The software users
 There is another problem with software ethics, the users.
 If a software engineer creates a social application this is not a ethical problem in and of itself. But a user can use the application to bully or discriminate another user which is not ethical and uses software but not by deffinition the fault of the software engineer.
 
-### Adverts
+## What can you do to adress ethics?
+The main thing here is how you adress an ethical question.
+
+![EthicalDecision](https://user-images.githubusercontent.com/73878099/174974645-d0364a03-2bdc-4880-b63a-0b2272f9a01e.png)
+
+If you base your decision on how much money you will make rather than how it impacts its users, you are more likely to make an unethical decision.
+
+## Adverts
 When you create a application or website it is very tempting to allow ads so you can make money off of it. there are however also unethical aspects to this.
 Advertisements are considered unethical when they:
 - It gives false information.
@@ -84,7 +105,7 @@ Plus you can have your entire website or application be full of ads, which makes
 
 Whether you find this unethical is an oppinion though.
 
-### Loot Boxes
+## Loot Boxes
 Another aspect of ethics related to software is gambling.
 To promote gambling can be considered unehtical since it can destroy lives. 
 To make it appealing for kids even worse. 
@@ -104,3 +125,5 @@ This is an example of cultural differences in softwareto see my full report chec
 > - https://thenewstack.io/five-principles-software-ethics/
 > - https://accountlearning.com/unethical-advertising-forms-effects-improve/
 > - https://smallbusiness.chron.com/difference-between-unethical-ethical-advertising-19262.html
+> - https://link.springer.com/article/10.1007/s13347-021-00451-w/tables/1
+> - https://link.springer.com/article/10.1007/s13347-021-00451-w
