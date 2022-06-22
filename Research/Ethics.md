@@ -12,14 +12,19 @@ By Rens Vlooswijk
 - [Adverts](#adverts)
 - [Loot boxes](#loot-boxes)
 
+For this research document I used the DOT framework. However since it is research about Ethics it mostly only includes library and field research.
+![image](https://user-images.githubusercontent.com/73878099/175053918-ee3fac89-83f9-4206-9645-81217c804968.png)
+
 ## Introduction  
 As in most things ethics also apply when creating software. You may think ethics arent a big  deal in software development, but you would be mistaken.
 There are a lot of choises when developing software based on ethical and moral choises.
 
+![image](https://user-images.githubusercontent.com/73878099/175053871-c116f71b-7b99-4205-81ee-d5b3bf2e0a84.png)
 ## What are ethics?
 The definition is: "ethics, also called moral philosophy, the discipline concerned with what is morally good and bad and morally right and wrong. The term is also applied to any system or theory of moral values or principles." 
 But ofcourse the idea of ethics differs from the ethics code in software development.
 
+![image](https://user-images.githubusercontent.com/73878099/175053834-20da9fad-1da3-4592-b3cf-2e130367eb3d.png)
 ## Ethics in software
 
 ![LevelsOfEthicalIssues](https://user-images.githubusercontent.com/73878099/174975283-ee5296f1-dc79-4298-985a-f84320414fe3.png)
@@ -47,9 +52,11 @@ One does this by:
 - treat other developers with respect
 - follow the code of conduct
 
+![image](https://user-images.githubusercontent.com/73878099/175054068-60dea8a9-d0b9-4b02-b0e5-24658c6ca81d.png)
 ## Why are ethics such an important part of software development?
 When you create a piece of software and it becomes popular you have the possibilty to abuse this. This woulnd be that hard to do and could earn you a lot more money. So a lot of software engineers will probably be tempted. And when not corrected by a moral compass he or she can have a large impact on a lot of peoples lives.
 
+![image](https://user-images.githubusercontent.com/73878099/175054221-331f0180-307f-401b-a67c-0d79cca8d85c.png)
 ## How could you abuse software 
 There are lots of ways to abuse software development.
 First and foremost you can sell a users private information.
@@ -79,6 +86,7 @@ Furthermore if the software engineer adds a monthly payment instead of a yearly 
 There is another problem with software ethics, the users.
 If a software engineer creates a social application this is not a ethical problem in and of itself. But a user can use the application to bully or discriminate another user which is not ethical and uses software but not by deffinition the fault of the software engineer.
 
+![image](https://user-images.githubusercontent.com/73878099/175054432-21b1fa48-7374-4411-9655-b9770c6973d1.png)
 ## What can you do to adress ethics?
 The main thing here is how you adress an ethical question.
 
@@ -86,6 +94,7 @@ The main thing here is how you adress an ethical question.
 
 If you base your decision on how much money you will make rather than how it impacts its users, you are more likely to make an unethical decision.
 
+![image](https://user-images.githubusercontent.com/73878099/175054504-7988a94b-8e43-41d8-91cf-9942a7f32535.png)
 ## Adverts
 When you create a application or website it is very tempting to allow ads so you can make money off of it. there are however also unethical aspects to this.
 Advertisements are considered unethical when they:
@@ -105,6 +114,7 @@ Plus you can have your entire website or application be full of ads, which makes
 
 Whether you find this unethical is an oppinion though.
 
+![image](https://user-images.githubusercontent.com/73878099/175054776-82becb26-7880-4f48-a690-19768696d0fd.png)
 ## Loot Boxes
 Another aspect of ethics related to software is gambling.
 To promote gambling can be considered unehtical since it can destroy lives. 
@@ -117,6 +127,9 @@ What is in them can be worthless or extremely valuable, Also known as gambling.
 This has recently been banned in countries like belgium, but it is still legal in the Netherlands.
 This is an example of cultural differences in softwareto see my full report check out [cultural differences in software📄](https://github.com/StokersWebsite/.github/edit/main/Research/Cultural%20Differences) 
 
+When playing a game that has loot boxes you get recommended the loot boxes a lot. When I played CS-Go I see the loot boxes everywhere. They always market them as being really valuable, but they can also give you something that is basically worthless. 
+I personally didn't buy any of these loot boxes but I can see the appeal and I think a lot of kids will buy them. I think this is very unethical since you manipulate kids to spend money on your game.
+
 >### Sources:
 > - https://www.britannica.com/topic/ethics-philosophy
 > - https://www.ethicalweb.org/
@@ -127,3 +140,6 @@ This is an example of cultural differences in softwareto see my full report chec
 > - https://smallbusiness.chron.com/difference-between-unethical-ethical-advertising-19262.html
 > - https://link.springer.com/article/10.1007/s13347-021-00451-w/tables/1
 > - https://link.springer.com/article/10.1007/s13347-021-00451-w
+> - https://ictresearchmethods.nl/The_DOT_Framework
+> - https://ictresearchmethods.nl/Methods
+> - https://ictresearchmethods.nl/Research_Pattern_Navigator
