@@ -34,7 +34,7 @@ What should it be able to do, and what do you need to be able to make this.
 Normally the stakeholders come up with requirements (sometimes in collaboration with the developers).
 
 ### Planning
-Then you can make a planning. You devide the requirements in tasks which you can then assign to people with a certain timeframe. To keep track of all the tasks you can use tools like Taiga.
+Then you can make a planning. You devide the requirements in tasks which you can then assign to people with a certain timeframe. To keep track of all the tasks you can use tools like [Taiga]([https://www.taiga.io/](https://tree.taiga.io/project/jeffrey_derksen-international-project/backlog)).
 
 ### Collaborative Design
 After this the planning you can design the software. Think of how you are going to accomplish your tasks and what you will need.
@@ -46,12 +46,13 @@ When all of this is done you can start on actually creating the product. Try to 
 And finaly you have a retrospective, a review on how everything went. You can give each other tips and say what you thought should go better next time.
 Then the cycle starts again (usually with the planning). This cycle can take however long you want but most teams take 3 to 4 weeks per cycle. This way they make sure they dont get too large a task, and keep the progression to a maximum.
 
-## Scrum 
+## [Scrum](https://www.scrum.org/resources/what-is-scrum) 
 ![Scrum](https://user-images.githubusercontent.com/73878099/175039749-fb9f876e-3cb4-4744-b443-91818f040067.png)
 
 We decided to use the Scrum method because it is extremely versatile. It allows you to change your goals on a day to day or week to week basis. This makes task way easier to oversee and get done. It also provides a more joyous work experience since you get a task done basically every day which is very satisfying.
 It was perfect for this project since at the beginning we didn't have a clear idea of what the project was going to be or how far we would get. With the help of scrum we were able to easily alter the tasks and goals, to be more accurate with what we would actually be able to accomplish.
-We didn't have set roles for all sprints, we changed roles each sprint because this was the best way for us to learn how to use scrum
+We didn't have set roles for all sprints, we changed roles each sprint because this was the best way for us to learn how to use scrum.
+We used [Taiga](https://tree.taiga.io/project/jeffrey_derksen-international-project/backlog) as our scrum tool, held weekly meetings and invited all stakeholders to the sprint delivery.
 
 ### Roles:
 
@@ -82,7 +83,7 @@ You also need acceptation criteria, these are predetermined criteria of when you
 And last but not least you need a scrum board, A place that shows all the tasks and in what stage of completion they are.
 This board is divided in sprints as well and you can assign a task to someone who will then be responsible for that part of the project.
 
-## Kanban
+## [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board)
 
 ![Kanban](https://user-images.githubusercontent.com/73878099/175043438-41888d6a-3073-4efc-8d1e-982191403501.png)
 
