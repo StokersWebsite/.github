@@ -64,6 +64,8 @@ When I first started the project I created a class diagram, but as my project ex
 
 ![FrontEndTour](https://github.com/StokersWebsite/.github/blob/8db5542a91276711fdff3c9b59a83044502f7d3f/Images/FrontEndTour.gif)
 
+#### After I finished the frontend I asked people to do a UI test. Most feedback was positive, as it was clear what was where and the embeded youtube video's were a nice touch. The design itself however was very bland, which I completely agree with but didn't have time to improve it since it wasn't the focus of the semester.
+
 #### For my "second frontend" I created an auth0 login, The idea was that Stokers members have an account and can login while other users can not make an account.
 
 ![image](https://user-images.githubusercontent.com/73878099/173632445-2d1441bf-ae08-4416-a414-1bb82c13588c.png)
