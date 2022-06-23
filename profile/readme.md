@@ -100,7 +100,7 @@ For the group project, after the Finnish students finished their part of the pro
 #### Another thing Sonarcloud picked up are some Security hotspots. It says my API is vulnerable since it is publicly accessible for everybody. But this is exactly the point since otherwise my own frontend wouldn't be able to use it either. So these 2 security hotspots are neglectable.
 #### To test if my API was working as intended I mainly used postman. This too was a good choice and will be used again by me for sure. It helped tremendously when my activities would not load and I thought something was wrong with my API. But after using postman I found out this wasnt the case. Then I used Sonarcloud to find the bug which was in my frontend. Before this semester it would have taken me way longer to find this bug, but thanks to the (for me) new tools it was a quick fix.
 ![Postman Demo](https://github.com/StokersWebsite/.github/blob/594875f9ec52fb7b295ea3c71fe8390a96cf5e01/Images/PostmanDemo.gif)
-#### In postman I also made intergration tests for my API, I chose for intergration tests in postman rather than testing the logic layer of my API since it doesn't have that much logic functions, so it wouldn't be useful.
+#### In postman I also made integration tests for my API, I chose for integration tests in postman rather than testing the logic layer of my API since it doesn't have that much logic functions, so it wouldn't be useful.
 These tests could also work as unit [regression tests](https://www.guru99.com/regression-testing.html) by running it daily (or weekly) but that doesn't work if it runs on docker (locally).
 ![postman tests](https://user-images.githubusercontent.com/73878099/174308123-ae2aa45b-fc30-487e-b132-87d3308b081d.png)
 )
@@ -119,7 +119,7 @@ These tests could also work as unit [regression tests](https://www.guru99.com/re
 >_Choose_: 
 >You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
-#### For the group project we used Scrum as our agile method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the Finnish students had used this method before and would like to do it again. We also discussed Kanban but the main reason we didn't chose this is that it isn't based around sprints. For us sprints were very useful since it allowed us to check our progress every few weeks since we had no idea how this project would go. The cooperation with the Finnish students made it really hard to estimate all tasks we would be able to finish.
+#### For the group project we used Scrum as our agile method. We did this using Taiga. This is a program that allows you to make a board per sprint that has all tasks which you can assign to people. We chose scrum since the Finnish students had used this method before and would like to do it again. We also discussed Kanban but the main reason we didn't choose this is that it isn't based around sprints. For us sprints were very useful since it allowed us to check our progress every few weeks since we had no idea how this project would go. The cooperation with the Finnish students made it really hard to estimate all tasks we would be able to finish.
 #### We used taiga as our scrum software and had a taiga project for the front-and-back end so we could see each others progress. None of the dutch students had ever heard of taiga but our teacher and the finish students were very positive about it so we decided we would try it out.
 
 ![TaigaBoard](https://github.com/StokersWebsite/.github/blob/dd00cefd4046c3a1ebfb5f568a243db58f544672/Images/TaigaBoard.gif)
@@ -157,7 +157,7 @@ You design a release process and implement a continuous integration and deployme
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures; Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
 ### Cultural Differences
-#### For cultural differences we ofcourse worked with the Finnish students on Eeventify. More on cultural differences can be found here [Cultural Differnces](https://github.com/StokersWebsite/.github/blob/main/Research/Cultural%20Differences.md).
+#### For cultural differences we ofcourse worked with the Finnish students on Eeventify. More on cultural differences can be found here [Cultural differences](https://github.com/StokersWebsite/.github/blob/main/Research/Cultural%20Differences.md).
 
 ### Ethics
 #### Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activities, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
@@ -225,7 +225,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### We were all very up to date on what the rest of the group was doing although we maybe should have paid more attention to what the Finnish students were doing.
 #### We did have sprint meetings every 3 weeks from which we received feedback from both the Finnish students and the teachers.
 
-And we gave eachother peer feedback, usually verbally. This was always very valuable since I then knew what the other students thought I should improve on.
+And we gave each other peer feedback, usually verbally. This was always very valuable since I then knew what the other students thought I should improve on.
 It was also very motivating because they often also mentioned things I did well.
 
 ![PeerFeedback](https://user-images.githubusercontent.com/73878099/175050663-a8d6d7bf-eb0a-4c51-ac92-34617baa01da.png)
@@ -236,7 +236,7 @@ It was also very motivating because they often also mentioned things I did well.
 # 3. Research🔎
 As of research I did for this semester:
 ## Ethics in software 
-As in most things ethics, also apply when creating software. You may think ethics aren't a big  deal in software development, but you would be mistaken.
+As in most things, ethics, also apply when creating software. You may think ethics aren't a big  deal in software development, but you would be mistaken.
 There are a lot of choices when developing software based on ethical and moral choices. To see my full ethics research:
 
 [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/main/Research/Ethics.md)
