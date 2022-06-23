@@ -74,6 +74,10 @@ When I first started the project I created a class diagram, but as my project ex
 
 #### To check out all the code go to [Stokers Frontend](https://github.com/StokersWebsite/StokersReactWebsite)
 
+For the group project, after the Finnish students finished their part of the project. We built our own frontend, with as initial design:
+![Eeventify Design](https://user-images.githubusercontent.com/73878099/175306951-da5205c4-2bfa-43ab-bde0-54aa42388d23.png)
+
+
 ### Back-End
 #### For the websites backend I used ASP.Net / C#. I picked this because I already had experience with this and since I already picked a (for me) new frontend framework and language I felt like this was the best option. Because this way I would still learn a lot of new things but I would also be able to have some functionality. For the group project we chose for a micro-service structure but this would be over engineering, which would be a waste of time. That's why I just have 1 API which can get all the activities and add new activities.
 ![Swagger Gif](https://github.com/StokersWebsite/.github/blob/1899216aaaadb96c6db2d5a38fde6bf4e5d6e958/Images/swagger.gif)
@@ -186,6 +190,8 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 ### [Eeventify](https://github.com/Eeventify)
 #### for the group project we planned everything out way better than for my personal project, we made a lot more diagrams and discussed the requirements (while in Finland) extensively.
 ![image](https://github.com/StokersWebsite/.github/blob/bfdb67662045b1986345ef1bd5f140006d0e8c87/Images/unknown.png)
+
+### For the designs check out [Learning Outcome 1(Designs)](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
 
 [Back to table of contents](#table-of-contents)
 
