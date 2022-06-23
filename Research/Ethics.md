@@ -12,7 +12,7 @@ By Rens Vlooswijk
 - [Adverts](#adverts)
 - [Loot boxes](#loot-boxes)
 
-For this research document I used the DOT framework. However since it is research about Ethics it mostly only includes library and field research.
+For this research document I used the [DOT framework](https://ictresearchmethods.nl/The_DOT_Framework). However since it is research about Ethics it mostly only includes library and field research.
 
 ![image](https://user-images.githubusercontent.com/73878099/175053918-ee3fac89-83f9-4206-9645-81217c804968.png)
 
@@ -21,7 +21,7 @@ As in most things ethics also apply when creating software. You may think ethics
 There are a lot of choises when developing software based on ethical and moral choises.
 
 ![image](https://user-images.githubusercontent.com/73878099/175053871-c116f71b-7b99-4205-81ee-d5b3bf2e0a84.png)
-## What are ethics?
+## What are [ethics](https://www.britannica.com/topic/ethics-philosophy)?
 The definition is: "ethics, also called moral philosophy, the discipline concerned with what is morally good and bad and morally right and wrong. The term is also applied to any system or theory of moral values or principles." 
 But ofcourse the idea of ethics differs from the ethics code in software development.
 
@@ -30,7 +30,7 @@ But ofcourse the idea of ethics differs from the ethics code in software develop
 
 ![LevelsOfEthicalIssues](https://user-images.githubusercontent.com/73878099/174975283-ee5296f1-dc79-4298-985a-f84320414fe3.png)
 
-There are 4 main principles of ethical web development that every developer should strive to stick to.
+There are [4 main principles of ethical web development](https://www.ethicalweb.org/) that every developer should strive to stick to.
 
 ### web applications should work for everyone
 A developer should prioratize accessibility so you dont exclude anyone. This also means he should test with real users on all kind of platforms.
@@ -70,13 +70,13 @@ you could also add something in small text at the bottom of a users agreement, M
 Another possiblility is to make the design of your software as addictive as possible.
 If you make a design addictive it may be good for you but most likely not for the user.
 
-### Dark patterns
-As a software engeneer you can use dark patterns:
-![DarkPatterns](https://user-images.githubusercontent.com/73878099/174976543-57e1d6af-f600-45fd-8fd7-2de847791719.png)
-
 This can also be done by using words that make a user want to or not want to click.
 
 ![ILikeSpendingMoney](https://user-images.githubusercontent.com/73878099/174976898-d2034512-c584-48bb-8ec4-6bd2ce881296.png)
+
+### Dark patterns
+As a software engeneer you can use dark patterns:
+![DarkPatterns](https://user-images.githubusercontent.com/73878099/174976543-57e1d6af-f600-45fd-8fd7-2de847791719.png)
 
 ### Finance
 But the most problematic for most people is the financial side of it all. If you need to pay for the application the user fills out his or her bank information , this in of itself is problematic if the application gets hacked and the information is leaked. But that is something further explained in the security analysis since it has to do with the security of the application rather than the ethics of software. 
@@ -98,7 +98,7 @@ If you base your decision on how much money you will make rather than how it imp
 ![image](https://user-images.githubusercontent.com/73878099/175054504-7988a94b-8e43-41d8-91cf-9942a7f32535.png)
 ## Adverts
 When you create a application or website it is very tempting to allow ads so you can make money off of it. there are however also unethical aspects to this.
-Advertisements are considered unethical when they:
+[Advertisements are considered unethical](https://accountlearning.com/unethical-advertising-forms-effects-improve/) when they:
 - It gives false information.
 - It degrades the rival’s product or substitute product.
 - It makes exaggerated or tall claims.
@@ -125,13 +125,20 @@ What is in them can be worthless or extremely valuable, Also known as gambling.
 
 ![LootBox](https://user-images.githubusercontent.com/73878099/174761086-6a352c96-28f9-4531-8711-df613509d0cf.png)
 
-This has recently been banned in countries like belgium, but it is still legal in the Netherlands.
+[This has recently been banned](https://www.videogameschronicle.com/news/18-european-country-groups-have-joined-the-fight-against-loot-boxes/) in countries like belgium, but it is still legal in the Netherlands.
 This is an example of cultural differences in softwareto see my full report check out [cultural differences in software📄](https://github.com/StokersWebsite/.github/edit/main/Research/Cultural%20Differences) 
 
 When playing a game that has loot boxes you get recommended the loot boxes a lot. When I played CS-Go I see the loot boxes everywhere. They always market them as being really valuable, but they can also give you something that is basically worthless. 
 I personally didn't buy any of these loot boxes but I can see the appeal and I think a lot of kids will buy them. I think this is very unethical since you manipulate kids to spend money on your game.
 
 ## My experience
+### Eeventify
+Whenever you create software you have to deal with ethics in some way. In my case, we created a social media platform called Eevenfity.
+This in and of itself is ethically questionable, since you give people the option to exclude other users. Anothe problem with a lot of social media platforms is that they make it as [addictive as possible](https://github.com/StokersWebsite/.github/edit/main/Research/Ethics.md#deceptive-design).
+Another main ethical aspect we had to consider was privacy and security. On a social media platform there is a lot of personal information. And since we made our own login and didn't use external tools like Auth0 we had to properly secure everything to be morally OK.
+
+### Stokers
+For my individual project ethics wasn't as much of an issue. It doesn't hold any personal information, it uses an external login system and users can't interact with each other. Only the admin part of the website required some ethical decisions. For example for the Foto album page. On there I wanted to add the pictures of the stokers Instagram page but I was not able to ask everybody on every picture if I allowed to do so. This is why I chose to only include the YouTube video, there weren't that many people on those video's so I asked them and they all said it was ok so I proceded to make the foto album page.
 
 >### Sources:
 > - https://www.britannica.com/topic/ethics-philosophy
