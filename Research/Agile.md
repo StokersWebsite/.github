@@ -49,7 +49,9 @@ Then the cycle starts again (usually with the planning). This cycle can take how
 ## Scrum 
 ![Scrum](https://user-images.githubusercontent.com/73878099/175039749-fb9f876e-3cb4-4744-b443-91818f040067.png)
 
-We decided to use the Scrum method which is extremely versatile. It allows you to change your goals on a day to day or week to week basis. This makes task way easier to oversee and get done. It also provides a more joyous work experience since you get a task done basically every day which is very satisfying.
+We decided to use the Scrum method because it is extremely versatile. It allows you to change your goals on a day to day or week to week basis. This makes task way easier to oversee and get done. It also provides a more joyous work experience since you get a task done basically every day which is very satisfying.
+It was perfect for this project since at the beginning we didn't have a clear idea of what the project was going to be or how far we would get. With the help of scrum we were able to easily alter the tasks and goals, to be more accurate with what we would actually be able to accomplish.
+We didn't have set roles for all sprints, we changed roles each sprint because this was the best way for us to learn how to use scrum
 
 ### Roles:
 
