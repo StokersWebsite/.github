@@ -11,6 +11,7 @@ By Rens Vlooswijk
 - [What can you do to adress ethics](#what-can-you-do-to-adress-ethics)
 - [Adverts](#adverts)
 - [Loot boxes](#loot-boxes)
+- [My experience](#my-experience)
 
 For this research document I used the [DOT framework](https://ictresearchmethods.nl/The_DOT_Framework). However since it is research about Ethics it mostly only includes library and field research.
 
