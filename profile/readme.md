@@ -175,6 +175,8 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### I also got feedback as user acceptance testing from Stokers members, first of all about the requirements of course. I did this at the start because I wanted to know what all the members wanted in the site. 
 #### From this I learned that most members would like a activities tab on which they can see what events are coming up, which I then added to the requirements.
 
+#### To check out the sites designs check out [](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
+
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Activity%20requirements.png)
 #### I also made user stories to know exactly what the website should be able to do?
 ![user story 1](https://user-images.githubusercontent.com/73878099/174552479-ca77bc71-bb7e-4857-8839-c950cda420fb.png)
