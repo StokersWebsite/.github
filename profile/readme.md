@@ -77,6 +77,8 @@ When I first started the project I created a class diagram, but as my project ex
 For the group project, after the Finnish students finished their part of the project. We built our own frontend, with as initial design:
 ![Eeventify Design](https://user-images.githubusercontent.com/73878099/175306951-da5205c4-2bfa-43ab-bde0-54aa42388d23.png)
 
+## To see the current design of the Eeventify website, you can check out the website itself: [Eeventify](http://eeventify.robinvanhoof.tech/)
+
 
 ### Back-End
 #### For the websites backend I used ASP.Net / C#. I picked this because I already had experience with this and since I already picked a (for me) new frontend framework and language I felt like this was the best option. Because this way I would still learn a lot of new things but I would also be able to have some functionality. For the group project we chose for a micro-service structure but this would be over engineering, which would be a waste of time. That's why I just have 1 API which can get all the activities and add new activities.
