@@ -13,6 +13,7 @@ By Rens Vlooswijk
 - [Loot boxes](#loot-boxes)
 
 For this research document I used the DOT framework. However since it is research about Ethics it mostly only includes library and field research.
+
 ![image](https://user-images.githubusercontent.com/73878099/175053918-ee3fac89-83f9-4206-9645-81217c804968.png)
 
 ## Introduction  
@@ -129,6 +130,8 @@ This is an example of cultural differences in softwareto see my full report chec
 
 When playing a game that has loot boxes you get recommended the loot boxes a lot. When I played CS-Go I see the loot boxes everywhere. They always market them as being really valuable, but they can also give you something that is basically worthless. 
 I personally didn't buy any of these loot boxes but I can see the appeal and I think a lot of kids will buy them. I think this is very unethical since you manipulate kids to spend money on your game.
+
+## My experience
 
 >### Sources:
 > - https://www.britannica.com/topic/ethics-philosophy
