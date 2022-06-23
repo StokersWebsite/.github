@@ -191,7 +191,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### for the group project we planned everything out way better than for my personal project, we made a lot more diagrams and discussed the requirements (while in Finland) extensively.
 ![image](https://github.com/StokersWebsite/.github/blob/bfdb67662045b1986345ef1bd5f140006d0e8c87/Images/unknown.png)
 
-### For the designs check out [Learning Outcome 1(Designs)](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
+### For more designs check out [Learning Outcome 1(Designs)](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
 
 [Back to table of contents](#table-of-contents)
 
@@ -207,7 +207,6 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 >or
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-(to be added)
 
 [Back to table of contents](#table-of-contents)
 
