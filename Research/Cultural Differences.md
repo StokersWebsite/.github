@@ -66,8 +66,8 @@ Another example is loot boxes. In some countries they are banned while in others
 
 My personal experience mostly comes from the [Eeventify](https://github.com/Eeventify) project. This is a project we did this semester together with a group of students from Finland. In Febuary (2022) [Tjerk](https://github.com/TjerkZ), [Timo](https://github.com/timojw) and me went to the [Oulu university of applied sciences](https://www.oamk.fi/en/). While we were there we came up with a project we could work on during our semester. Throughout the semester we came across a lot of cultural differences that we had to overcome to get a finished product by the end of the semester.
 
-For example the communication, We as Dutch students knew exactly what each of us was doing every day we worked on the project. In Finland however it seemed like they were all building a different application. But when things had to be discussed between Dutch and Finnish students this always happened correctly and efficiently.
-So eventually even we (as dutch students) knew what each Finnish student was doing during a sprint.
+For example the communication, We as Finnish students knew exactly what each of us was doing every day we worked on the project. Here however it seemed like we were all building a different application. But when things had to be discussed between Dutch and Finnish students this always happened correctly and efficiently.
+So eventually even the Finnish student knew what we were doing during a sprint. This alligns with the 2nd dimension [Individualism Versus Collectivism](https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=2.%20Individualism%20Versus%20Collectivism%20(IDV)), since all the Dutch students were very individual whlie the Finnish students were very collective.
 
 The Finnish students were generally very cooperative, and quick to compromise. If we ever had a disagreement on what something should be we could therefore easily find a compromise. 
 
