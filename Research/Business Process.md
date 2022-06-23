@@ -28,7 +28,9 @@ If you know a process very well and know how they work (due to proper BPM) chang
 With original tools there is almost no way to keep everything updated and know what does what.
 This results in less errors, and with a BPM errors are also easilier tracked.
 
-### 
+### Reduce the need for a lot of management
+Whenworking on a project with a group of people there is likely to be someone who doesn't stick to the predetermined methods. When this is clearly established with a proper BPM everybody is always on the same page.
+
 
 
 
