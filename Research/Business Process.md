@@ -45,12 +45,14 @@ Whenworking on a project with a group of people there is likely to be someone wh
 ### Stokers business Process
 For my own business process I chose the add activity option for the stokers website. 
 Currently (without my software intergration) whenever you want to arrange an activity you sent a message in the group chat with all the stoker embers. However, this is chaotic and doesn't really work since a lot of people can then respond on your proposition. Which leads to less people reading the chat. Also, a lot of people may originaly think "what a great idea" and respond with that. But hen realise that they can't attend it that day. It is also hard to remember what activities are planned when, and to which activities you said yes.
+
 This process has already been improved, now you can send a mail to the board of the stokers who then decide if it is a good idea. And if it is they can send it in the announcement chat. In a business process this looks like this:
 
 ![PreSoftwareBusinessProcess](https://user-images.githubusercontent.com/73878099/175529309-f020f75f-ed5c-43e9-a4c2-bbc05d7e1c1d.png)
 
-With the website the business process looks like this:
+### With the website the business process looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/175529357-9085888e-8d48-4910-984c-c985d8eaae4f.png)
 
 You ofcourse start by logging in since you can only add an activity if you are a stokers member. Then you go to the add activity page, where you can fill out a form with all the required information for an event. This will then be sent to the board of the stokers who decide whether this is a fun activity for the stokers that we can attend. If they decline it you can either work through the feedback and fill in a new activity form or you can end the process. On the other hand if they do accept your idea it will get uploaded to the website where everybody can see it. Stokers members can then join it, if enough members join the activity will be arranged and the process ends. But if not enough people join the activity you can also remove the activity which also ends the process.
-This also solves the problem of the activity managment. Since you can see upcomming activities with their informaiton like the date and who is going to go.
+
+This also solves the problem of the activity managment. Since you can see upcomming activities with their information like the date and who is going to go.
