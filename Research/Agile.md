@@ -11,7 +11,7 @@ by Rens Vlooswijk
 
 ## Introduction
 
-There are more than one ways to work as a group on a large project.
+There is more than one way to work as a group on a large project.
 There is no correct answer to which method is the best, it is all based on personal preference, even so there are certain pro's and cons to certain methods.
 But the overall idea of agile is a flexible work method.
 
