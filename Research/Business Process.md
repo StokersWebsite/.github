@@ -52,5 +52,5 @@ This process has already been improved, now you can send a mail to the board of 
 With the website the business process looks like this:
 ![image](https://user-images.githubusercontent.com/73878099/175529357-9085888e-8d48-4910-984c-c985d8eaae4f.png)
 
-In the end you get your activity on the website on which other stokers members can join it.
-This is very useful since then you can also see how many people want to attend the activity. Plus members can see when all activities are going to take place.
+You ofcourse start by logging in since you can only add an activity if you are a stokers member. Then you go to the add activity page, where you can fill out a form with all the required information for an event. This will then be sent to the board of the stokers who decide whether this is a fun activity for the stokers that we can attend. If they decline it you can either work through the feedback and fill in a new activity form or you can end the process. On the other hand if they do accept your idea it will get uploaded to the website where everybody can see it. Stokers members can then join it, if enough members join the activity will be arranged and the process ends. But if not enough people join the activity you can also remove the activity which also ends the process.
+This also solves the problem of the activity managment. Since you can see upcomming activities with their informaiton like the date and who is going to go.
