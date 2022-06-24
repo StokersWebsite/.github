@@ -1,4 +1,4 @@
-# 
+# Business Process
 
 ## Table of contents:
 - [What is a business process?](#what-is-a-business-process)
