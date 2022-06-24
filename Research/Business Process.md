@@ -36,9 +36,11 @@ For my own business process I chose the add activity option for the stokers webs
 Currently (without my software intergration) whenever you want to arrange an activity you sent a message in the group chat with all the stoker embers. However, this is chaotic and doesn't really work since a lot of people can then respond on your proposition. Which leads to less people reading the chat. Also, a lot of people may originaly think "what a great idea" and respond with that. But hen realise that they can't attend it that day. It is also hard to remember what activities are planned when, and to which activities you said yes.
 This process has already been improved, now you can send a mail to the board of the stokers who then decide if it is a good idea. And if it is they can send it in the announcement chat. In a business process this looks like this:
 
-![BusinessProcessMailBoard](https://user-images.githubusercontent.com/73878099/175518039-3b1fa6f5-e10f-4491-971e-2e8613f9a92a.png)
+![PreSoftwareBusinessProcess](https://user-images.githubusercontent.com/73878099/175529309-f020f75f-ed5c-43e9-a4c2-bbc05d7e1c1d.png)
 
 With the website the business process looks like this:
-![BusinessProcessStokers](https://user-images.githubusercontent.com/73878099/175528904-23938fcb-ad59-4c9e-b306-44b6fda4c8f1.png)
+![image](https://user-images.githubusercontent.com/73878099/175529357-9085888e-8d48-4910-984c-c985d8eaae4f.png)
 
 In the end you get your activity on the website on which other stokers members can join it.
+This is very useful since then you can also see how many people want to attend the activity. Plus members can see when all activities are going to take place.
+
