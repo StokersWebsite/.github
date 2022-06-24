@@ -209,6 +209,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 >or
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
+I made a business process for adding an activity on the stokers website that people can attend. To check out the full document go to [Business Process](https://github.com/StokersWebsite/.github/blob/main/Research/Business%20Process.md)
 
 [Back to table of contents](#table-of-contents)
 
