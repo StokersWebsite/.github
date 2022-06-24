@@ -195,6 +195,8 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 
 ### For more designs check out [Learning Outcome 1(Designs)](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
 
+#### I also had other classmates check out my website to test its UI design. This is how I knew what had to be improved. Whenever I agreed with the feedback I changed it as soon as possible. All this feedback was very useful and I was able to change quite a lot of things.
+
 [Back to table of contents](#table-of-contents)
 
 ## 7-Business process
