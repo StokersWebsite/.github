@@ -39,6 +39,6 @@ This process has already been improved, now you can send a mail to the board of 
 ![BusinessProcessMailBoard](https://user-images.githubusercontent.com/73878099/175518039-3b1fa6f5-e10f-4491-971e-2e8613f9a92a.png)
 
 With the website the business process looks like this:
-![Business Process Stokers Website](https://user-images.githubusercontent.com/73878099/175523193-84034ea8-0bce-42c9-b664-9ff6d2031b3a.png)
+![BusinessProcessStokers](https://user-images.githubusercontent.com/73878099/175528904-23938fcb-ad59-4c9e-b306-44b6fda4c8f1.png)
 
 In the end you get your activity on the website on which other stokers members can join it.
