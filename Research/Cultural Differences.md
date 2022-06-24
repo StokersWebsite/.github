@@ -14,8 +14,7 @@ There are tons of different cultures, and lots of them also differ in software d
 
 ### Software
 [The main one being if a country is high or low context.](https://www.businessinsider.com/the-culture-map-8-scales-for-work-2015-1?international=true&r=US&IR=T)
-"Low-context cultures follow a more logical decision-making style, encourage and obey written commitments, have individualistic working styles, and do not typically encourage personal relationships formed in a work environment." 
-Countries like England and the US fall under this category.
+"Low-context cultures follow a more logical decision-making style, encourage and obey written commitments, have individualistic working styles, and do not typically encourage personal relationships formed in a work environment." Countries like England and the US fall under this category.
 
 "On the other hand, high-context countries have a more intuitive decision-making style, place more value on oral agreements, have team-oriented working styles, and usually encourage personal relationships being formed in a work environment. These relationships have the power to influence business decisions." 
 Countries like China and India fall into this category. 
