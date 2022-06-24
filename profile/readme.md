@@ -184,7 +184,7 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 #### To check out the sites designs check out [](https://github.com/StokersWebsite/.github/edit/main/profile/readme.md#design)
 
 ![[image]](https://github.com/StokersWebsite/.github/blob/e0bd499b9bc15a84ee4a9c0c9c5e085e1f7ff7a8/Images/Activity%20requirements.png)
-#### I also made user stories to know exactly what the website should be able to do?
+#### I also made user stories to know exactly what the website should be able to do
 ![user story 1](https://user-images.githubusercontent.com/73878099/174552479-ca77bc71-bb7e-4857-8839-c950cda420fb.png)
 ![User Story 2](https://user-images.githubusercontent.com/73878099/174552590-da8ca1ed-1f82-4baa-a9c9-8e39b6430b46.png)
 ![User Story 3](https://user-images.githubusercontent.com/73878099/174552783-8e03b2b4-f225-41eb-a1c7-5d0686df7137.png)
