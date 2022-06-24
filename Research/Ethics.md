@@ -89,8 +89,8 @@ There is another problem with software ethics, the users.
 If a software engineer creates a social application this is not a ethical problem in and of itself. But a user can use the application to bully or discriminate another user which is not ethical and uses software but not by deffinition the fault of the software engineer.
 
 ![image](https://user-images.githubusercontent.com/73878099/175054432-21b1fa48-7374-4411-9655-b9770c6973d1.png)
-## What can you do to adress ethics?
-The main thing here is how you adress an ethical question.
+## What can you do to address ethics?
+The main thing here is how you address an ethical question.
 
 ![EthicalDecision](https://user-images.githubusercontent.com/73878099/174974645-d0364a03-2bdc-4880-b63a-0b2272f9a01e.png)
 
@@ -98,7 +98,7 @@ If you base your decision on how much money you will make rather than how it imp
 
 ![image](https://user-images.githubusercontent.com/73878099/175054504-7988a94b-8e43-41d8-91cf-9942a7f32535.png)
 ## Adverts
-When you create a application or website it is very tempting to allow ads so you can make money off of it. there are however also unethical aspects to this.
+When you create an application or website it is very tempting to allow ads so you can make money off of it. there are however also unethical aspects to this.
 [Advertisements are considered unethical](https://accountlearning.com/unethical-advertising-forms-effects-improve/) when they:
 - It gives false information.
 - It degrades the rival’s product or substitute product.
@@ -126,8 +126,8 @@ What is in them can be worthless or extremely valuable, Also known as gambling.
 
 ![LootBox](https://user-images.githubusercontent.com/73878099/174761086-6a352c96-28f9-4531-8711-df613509d0cf.png)
 
-[This has recently been banned](https://www.videogameschronicle.com/news/18-european-country-groups-have-joined-the-fight-against-loot-boxes/) in countries like belgium, but it is still legal in the Netherlands.
-This is an example of cultural differences in softwareto see my full report check out [cultural differences in software📄](https://github.com/StokersWebsite/.github/edit/main/Research/Cultural%20Differences) 
+[This has recently been banned](https://www.videogameschronicle.com/news/18-european-country-groups-have-joined-the-fight-against-loot-boxes/) in countries like Belgium, but it is still legal in the Netherlands.
+This is an example of cultural differences in softwaret see my full report check out [cultural differences in software📄](https://github.com/StokersWebsite/.github/edit/main/Research/Cultural%20Differences) 
 
 When playing a game that has loot boxes you get recommended the loot boxes a lot. When I played CS-Go I see the loot boxes everywhere. They always market them as being really valuable, but they can also give you something that is basically worthless. 
 I personally didn't buy any of these loot boxes but I can see the appeal and I think a lot of kids will buy them. I think this is very unethical since you manipulate kids to spend money on your game.
@@ -135,7 +135,7 @@ I personally didn't buy any of these loot boxes but I can see the appeal and I t
 ## My experience
 ### Eeventify
 Whenever you create software you have to deal with ethics in some way. In my case, we created a social media platform called Eevenfity.
-This in and of itself is ethically questionable, since you give people the option to exclude other users. Anothe problem with a lot of social media platforms is that they make it as [addictive as possible](https://github.com/StokersWebsite/.github/edit/main/Research/Ethics.md#deceptive-design).
+This in and of itself is ethically questionable, since you give people the option to exclude other users. Another problem with a lot of social media platforms is that they make it as [addictive as possible](https://github.com/StokersWebsite/.github/edit/main/Research/Ethics.md#deceptive-design).
 Another main ethical aspect we had to consider was privacy and security. On a social media platform there is a lot of personal information. And since we made our own login and didn't use external tools like Auth0 we had to properly secure everything to be morally OK.
 
 ### Stokers
