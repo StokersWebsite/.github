@@ -2,6 +2,7 @@
 
 ## Table of contents:
 - [What is a business process?](#what-is-a-business-process)
+- [BPMN](#BPMN)
 - [Business procces management](#business-process-management)
 - [Stokers Business process](#stokers-business-process)
 
@@ -9,6 +10,14 @@
 A business process is a structured and measurable set of activities that are designed for a specific output.
 A company can have lots of different business process. And they all take care of a different specific thing in the companry.
 It can include: identifying, designing, implementing automated processes and performing actions.
+
+## BPMN
+BPMN stands for Business Process Modeling notation and it is used for and its a modeling language for business processes. It is very easy to understand and thus can be use by all stakeholders. 
+It is useful :
+- Provides businesses with the capability of defining and understanding their procedures through Business Process Diagrams
+- To provide a standard notation that is readily understandable by all business stakeholders
+- To bridge the communication gap that frequently occurs between business process design and implementation
+- Simple to learn yet powerful enough to depict the potential complexities of a business process
 
 ## Business process management
 Business process managements or BPM for short, aims to improve the business processes.
@@ -43,4 +52,3 @@ With the website the business process looks like this:
 
 In the end you get your activity on the website on which other stokers members can join it.
 This is very useful since then you can also see how many people want to attend the activity. Plus members can see when all activities are going to take place.
-
