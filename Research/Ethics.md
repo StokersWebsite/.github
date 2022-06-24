@@ -18,8 +18,8 @@ For this research document I used the [DOT framework](https://ictresearchmethods
 ![image](https://user-images.githubusercontent.com/73878099/175053918-ee3fac89-83f9-4206-9645-81217c804968.png)
 
 ## Introduction  
-As in most things ethics also apply when creating software. You may think ethics arent a big  deal in software development, but you would be mistaken.
-There are a lot of choises when developing software based on ethical and moral choises.
+As in most things ethics also apply when creating software. You may think ethics aren't a big  deal in software development, but you would be mistaken.
+There are a lot of choices when developing software based on ethical and moral choices.
 
 ![image](https://user-images.githubusercontent.com/73878099/175053871-c116f71b-7b99-4205-81ee-d5b3bf2e0a84.png)
 ## What are [ethics](https://www.britannica.com/topic/ethics-philosophy)?
@@ -33,19 +33,19 @@ But ofcourse the idea of ethics differs from the ethics code in software develop
 
 There are [4 main principles of ethical web development](https://www.ethicalweb.org/) that every developer should strive to stick to.
 
-### web applications should work for everyone
-A developer should prioratize accessibility so you dont exclude anyone. This also means he should test with real users on all kind of platforms.
+### Web applications should work for everyone
+A developer should prioratize accessibility so you don't exclude anyone. This also means he should test with real users on all kind of platforms.
 
 ### Web applications should work everywhere
 When creating an application you should always ofcourse value performance. But this also has an impact on its ethical aspects, since this allows everybody to acces your application from pretty much everywhere.
 
-### web applications should respect a user's privacy and security
+### Web applications should respect a user's privacy and security
 Probably the most important aspect of ethics in software according to most users is Privacy and security.
-This is because if your websites security isnt sufficient people personal information can be leaked.
-This is why you should use https everywehre, secure user data, provide users with clear information about how their information is used and allow users to export their data.
+This is because if your websites security isn't sufficient people personal information can be leaked.
+This is why you should use https everywhere, secure user data, provide users with clear information about how their information is used and allow users to export their data.
 As of for how your website deals with privacy, you should always respect the users preferences.
 
-### web developers should be considerate of their peers
+### Web developers should be considerate of their peers
 One does this by:
 - Commenting and documenting code
 - properly test code
@@ -56,19 +56,19 @@ One does this by:
 
 ![image](https://user-images.githubusercontent.com/73878099/175054068-60dea8a9-d0b9-4b02-b0e5-24658c6ca81d.png)
 ## Why are ethics such an important part of software development?
-When you create a piece of software and it becomes popular you have the possibilty to abuse this. This woulnd be that hard to do and could earn you a lot more money. So a lot of software engineers will probably be tempted. And when not corrected by a moral compass he or she can have a large impact on a lot of peoples lives.
+When you create a piece of software and it becomes popular you have the possibility to abuse this. This wouldn't be that hard to do and could earn you a lot more money. So a lot of software engineers will probably be tempted. And when not corrected by a moral compass he or she can have a large impact on a lot of peoples lives.
 
 ![image](https://user-images.githubusercontent.com/73878099/175054221-331f0180-307f-401b-a67c-0d79cca8d85c.png)
 ## How could you abuse software 
 There are lots of ways to abuse software development.
-First and foremost you can sell a users private information.
+First and foremost you can sell a user's private information.
 For most applications you will need to create a account, to get this account you will most likely need to fill in some or a lot of personal information depending on the application.
 If the software developer is willing to he or she can sell this information to someone who will then abuse it.  
 
 ### Deceptive design
-you could also add something in small text at the bottom of a users agreement, Most users wont read that anyways and without a moral compass you can easily have a user agree to something that he or she doesnt want.
+you could also add something in small text at the bottom of a user's agreement, Most users wont read that anyways and without a moral compass you can easily have a user agree to something that he or she doesn't want.
 
-Another possiblility is to make the design of your software as addictive as possible.
+Another possibility is to make the design of your software as addictive as possible.
 If you make a design addictive it may be good for you but most likely not for the user.
 
 This can also be done by using words that make a user want to or not want to click.
