@@ -31,23 +31,14 @@ This results in less errors, and with a BPM errors are also easilier tracked.
 ### Reduce the need for a lot of management
 Whenworking on a project with a group of people there is likely to be someone who doesn't stick to the predetermined methods. When this is clearly established with a proper BPM everybody is always on the same page.
 
+### Stokers business Process
+For my own business process I chose the add activity option for the stokers website. 
+Currently (without my software intergration) whenever you want to arrange an activity you sent a message in the group chat with all the stoker embers. However, this is chaotic and doesn't really work since a lot of people can then respond on your proposition. Which leads to less people reading the chat. Also, a lot of people may originaly think "what a great idea" and respond with that. But hen realise that they can't attend it that day. It is also hard to remember what activities are planned when, and to which activities you said yes.
+This process has already been improved, now you can send a mail to the board of the stokers who then decide if it is a good idea. And if it is they can send it in the announcement chat. In a business process this looks like this:
 
+![BusinessProcessMailBoard](https://user-images.githubusercontent.com/73878099/175518039-3b1fa6f5-e10f-4491-971e-2e8613f9a92a.png)
 
+With the website the business process looks like this:
+![Business Process Stokers Website](https://user-images.githubusercontent.com/73878099/175521134-d71ec3e4-78ed-4497-bf60-e256a69a39c8.png)
 
-
-make diagram of before my software and after my software
-
-
-Become stoker member
-think of activity
-log in
-add activity
-notify other stoker members
-confirm activity creation
-
-software
-controle input user
-add activity to database
-sent email to activity creator
-adds activity to fontend when confirmed
-
+In the end you get your activity on the website on which other stokers members can join it.
