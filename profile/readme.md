@@ -124,7 +124,7 @@ These tests could also work as unit [regression tests](https://www.guru99.com/re
 
 ![TaigaBoard](https://github.com/StokersWebsite/.github/blob/dd00cefd4046c3a1ebfb5f568a243db58f544672/Images/TaigaBoard.gif)
 
-#### I also wrote a research document about agile and scrum: [[📄Agile]](https://github.com/StokersWebsite/.github/blob/main/Research/Agile.md)
+## To check out my full research document about agile and scrum: [[📄Agile]](https://github.com/StokersWebsite/.github/blob/main/Research/Agile.md)
 
 [Back to table of contents](#table-of-contents)
 
@@ -161,7 +161,8 @@ Adapt your communication, working, and behavior styles to reflect project stakeh
 
 ### Ethics
 #### Our group application is a social media application, As such our users would be able to chat with each other. This in and of itself could be problematic since it could be used to insult other people. Our application is also based on group activities, this means users could exclude other users from a certain activities, this would [inflict harm](https://www.acm.org/code-of-ethics#:~:text=locally%20and%20globally.-,1.2%20Avoid%20harm.,-In%20this%20document) to other users using our software.
-To see more about ethics check out [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/main/Research/Ethics.md)
+
+### To see my full ethics research check out [[📄Ethics research]](https://github.com/StokersWebsite/.github/blob/main/Research/Ethics.md)
 
 [Back to table of contents](#table-of-contents)
 
