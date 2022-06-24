@@ -2,7 +2,7 @@
 
 ## Table of contents:
 - [What is a business process?](#what-is-a-business-process)
-- [BPMN](#BPMN)
+- [BPMN](#bpmn)
 - [Business procces management](#business-process-management)
 - [Stokers Business process](#stokers-business-process)
 
@@ -18,6 +18,8 @@ It is useful :
 - To provide a standard notation that is readily understandable by all business stakeholders
 - To bridge the communication gap that frequently occurs between business process design and implementation
 - Simple to learn yet powerful enough to depict the potential complexities of a business process
+
+![BPMN](https://user-images.githubusercontent.com/73878099/175537759-f128136c-7a20-4b29-a6ca-6b82e2701861.png)
 
 ## Business process management
 Business process managements or BPM for short, aims to improve the business processes.
