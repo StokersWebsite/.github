@@ -34,7 +34,7 @@ What should it be able to do, and what do you need to be able to make this.
 Normally the stakeholders come up with requirements (sometimes in collaboration with the developers).
 
 ### Planning
-Then you can make a planning. You devide the requirements in tasks which you can then assign to people with a certain timeframe. To keep track of all the tasks you can use tools like [Taiga]([https://www.taiga.io/](https://tree.taiga.io/project/jeffrey_derksen-international-project/backlog)).
+Then you can make a planning. You divide the requirements in tasks which you can then assign to people with a certain timeframe. To keep track of all the tasks you can use tools like [Taiga]([https://www.taiga.io/](https://tree.taiga.io/project/jeffrey_derksen-international-project/backlog)).
 
 ### Collaborative Design
 After this the planning you can design the software. Think of how you are going to accomplish your tasks and what you will need.
@@ -43,8 +43,8 @@ After this the planning you can design the software. Think of how you are going 
 When all of this is done you can start on actually creating the product. Try to finish all tasks assigned to you. If you are done with all your tasks you can always help another member who hasn't. Or (this is not recommended) assign a new task to yourself.
 
 ### Review
-And finaly you have a retrospective, a review on how everything went. You can give each other tips and say what you thought should go better next time.
-Then the cycle starts again (usually with the planning). This cycle can take however long you want but most teams take 3 to 4 weeks per cycle. This way they make sure they dont get too large a task, and keep the progression to a maximum.
+And finally you have a retrospective, a review on how everything went. You can give each other tips and say what you thought should go better next time.
+Then the cycle starts again (usually with the planning). This cycle can take however long you want but most teams take 3 to 4 weeks per cycle. This way they make sure they don't get too large a task, and keep the progression to a maximum.
 
 ## [Scrum](https://www.scrum.org/resources/what-is-scrum) 
 ![Scrum](https://user-images.githubusercontent.com/73878099/175039749-fb9f876e-3cb4-4744-b443-91818f040067.png)
@@ -87,19 +87,19 @@ This board is divided in sprints as well and you can assign a task to someone wh
 
 ![Kanban](https://user-images.githubusercontent.com/73878099/175043438-41888d6a-3073-4efc-8d1e-982191403501.png)
 
-Kanban is in my opinion a simpler version of scrum. You have a Kanban Board, which has all the tasks devided in 3 sections.
+Kanban is in my opinion a simpler version of scrum. You have a Kanban Board, which has all the tasks divided in 3 sections.
 And they are (in my opinion) very self explanatory.
 #### To Do
 In this section you put all the tasks that you still need to do to finish all the requirements. It is like a backlog of all tasks.
 #### Doing
 In this section you put all the tasks that you are currently working on. All tasks in this section are in progress, which there are normally not that many.
 #### Done
-And finaly you have the section "Done". In this section you can see all tasks that have been finished. This way everybody can see how far you are along with the project.
+And finally you have the section "Done". In this section you can see all tasks that have been finished. This way everybody can see how far you are along with the project.
 
-This is the main principle of Kanban. I personaly really like Kanban since it is not that complicated but works nontheless.
+This is the main principle of Kanban. I personally really like Kanban since it is not that complicated but works nontheless.
 This is why I used it for my individual project.
 ![KanbanBoard](https://user-images.githubusercontent.com/73878099/175045054-2461530e-ce31-4645-ba84-9e861a35e99f.png)
 I added a "To verify" section, in this I put everything that I think is done but needs to be verified by the stakeholders.
 
-kanban works better for really small groups or individual people. Because if you have a lot of people working on a lot of different tasks the board gets really cluttered really fast. This is why for our group project we used [scrum](https://github.com/StokersWebsite/.github/edit/main/Research/Agile.md#scrum) and for my individual project I used Kanban.
+Kanban works better for really small groups or individual people. Because if you have a lot of people working on a lot of different tasks the board gets really cluttered really fast. This is why for our group project we used [scrum](https://github.com/StokersWebsite/.github/edit/main/Research/Agile.md#scrum) and for my individual project I used Kanban.
 
